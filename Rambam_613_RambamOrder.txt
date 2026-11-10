@@ -1,0 +1,3235 @@
+THE 613 MITZVOT — ORDER OF THE RAMBAM'S LIST, Hyamson's numbering (Positive 1–248, then Negative 1–365)
+Verse text: JPS 1917 English (public domain), in the wording of the 1917 text ("ye" and "builded" kept). 
+
+SOURCES (all public domain)
+  • Numbering and wording of each mitzvah: the Rambam's list of the 248 positive and 365 negative commandments, in the order and numbering of Moses Hyamson's translation (printed lists are not numbered identically at every point; see the Notes) (Mishneh Torah, 1937–49; text from the Sefaria public-domain set).
+  • Cross-checked against: Simon Glazer, Mishnah Torah (Yad ha-Hazakah) lists, 1927; and the uploaded scan "Book of the Precepts, Affirmative and Prohibitive" (Hebrew & English; Robert Young, Edinburgh; undated, after 1849), read from the page images where the OCR was garbled.
+  nb: Young's volume is a Christian-published edition. Only the Rambam's list of the precepts and the Scripture citations in it were used; none of that other material.
+
+POLICY
+  1. One entry per mitzvah — 248 positive + 365 negative = 613. A verse that underwrites several mitzvot appears once for each (for example Devarim 26:14 carries Neg. 150, 151 and 152), because each is a different commandment.
+  2. The primary verse is the one Hyamson attaches to the quoted proof-text of that mitzvah. Other verses cited for the same mitzvah are shown as "Also cited", with the source that cites them.
+  3. Where a verse is already shown for an earlier mitzvah, its text is not repeated; the entry says so.
+  4. A range of more than two verses shows only its first verse; the entry says which verses continue.
+  5. Where Hyamson writes "ibid." the verse is the same as the preceding mitzvah's, confirmed against Young's citation.
+  6. Where the sources disagree, the disagreement is stated on a "Note" line rather than settled by guess.
+
+
+
+======================================================================
+POSITIVE COMMANDMENTS (Mitzvot Aseh) 1–248
+======================================================================
+
+Pos. 1 — To know that there is a God
+    Shemot 20:2
+    “I am the LORD thy God, who brought thee out of the land of Egypt, out of the house of bondage.”
+    Also cited: Devarim 5:6 (Hyamson)
+
+Pos. 2 — To acknowledge His unity
+    Devarim 6:4
+    “Hear, O Israel: the LORD our God, the LORD is one.”
+
+Pos. 3 — To love Him
+    Devarim 6:5
+    “And thou shalt love the LORD thy God with all thy heart, and with all thy soul, and with all
+    thy might.”
+
+Pos. 4 — To fear Him
+    Devarim 6:13
+    “Thou shalt fear the LORD thy God; and Him shalt thou serve, and by His name shalt thou swear.”
+    Also cited: Devarim 10:20 (Hyamson)
+
+Pos. 5 — To pray to Him
+    Shemot 23:25
+    “And ye shall serve the LORD your God, and He will bless thy bread, and thy water; and I will
+    take sickness away from the midst of thee.”
+
+Pos. 6 — To cleave to Him
+    Devarim 10:20
+    “Thou shalt fear the LORD thy God; Him shalt thou serve; and to Him shalt thou cleave, and by
+    His name shalt thou swear.”
+
+Pos. 7 — To swear by His name
+    Devarim 10:20
+    (JPS text as at Pos. 6)
+
+Pos. 8 — To imitate His good and upright ways
+    Devarim 28:9
+    “The LORD will establish thee for a holy people unto Himself, as He hath sworn unto thee; if
+    thou shalt keep the commandments of the LORD thy God, and walk in His ways.”
+
+Pos. 9 — To hallow His name
+    Vayikra 22:32
+    “And ye shall not profane My holy name; but I will be hallowed among the children of Israel: I
+    am the LORD who hallow you,”
+
+Pos. 10 — To read the Shema twice daily
+    Devarim 6:7
+    “and thou shalt teach them diligently unto thy children, and shalt talk of them when thou
+    sittest in thy house, and when thou walkest by the way, and when thou liest down, and when thou
+    risest up.”
+
+Pos. 11 — To learn Torah and to teach it
+    Devarim 6:7
+    (JPS text as at Pos. 10)
+
+Pos. 12 — To bind the phylactery on the head
+    Devarim 6:8
+    “And thou shalt bind them for a sign upon thy hand, and they shall be for frontlets between
+    thine eyes.”
+
+Pos. 13 — To bind the phylactery on the arm
+    Devarim 6:8
+    (JPS text as at Pos. 12)
+
+Pos. 14 — To make fringes (Zizith)
+    Bamidbar 15:38
+    “‘Speak unto the children of Israel, and bid them that they make them throughout their
+    generations fringes in the corners of their garments, and that they put with the fringe of each
+    corner a thread of blue.”
+
+Pos. 15 — To affix the Mezuzah
+    Devarim 6:9
+    “And thou shalt write them upon the door-posts of thy house, and upon thy gates.”
+
+Pos. 16 — To assemble the people to hear the Torah, at the close of the seventh year
+    Devarim 31:12
+    “Assemble the people, the men and the women and the little ones, and thy stranger that is within
+    thy gates, that they may hear, and that they may learn, and fear the LORD your God, and observe
+    to do all the words of this law;”
+
+Pos. 17 — That every person shall write a scroll of the Torah for himself
+    Devarim 31:19
+    “Now therefore write ye this song for you, and teach thou it the children of Israel; put it in
+    their mouths, that this song may be a witness for Me against the children of Israel.”
+
+Pos. 18 — That the King shall write a scroll of the Torah for himself, besides the one which every individual should write, so that he shall possess two scrolls of the Torah
+    Devarim 17:18
+    “And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy
+    of this law in a book, out of that which is before the priests the Levites.”
+
+Pos. 19 — To recite grace after meals
+    Devarim 8:10
+    “And thou shalt eat and be satisfied, and bless the LORD thy God for the good land which He hath
+    given thee.”
+
+Pos. 20 — To build the Sanctuary
+    Shemot 25:8
+    “And let them make Me a sanctuary, that I may dwell among them.”
+
+Pos. 21 — To revere the Sanctuary
+    Vayikra 19:30
+    “Ye shall keep My sabbaths, and reverence My sanctuary: I am the LORD.”
+
+Pos. 22 — To watch over this edifice continually
+    Bamidbar 18:2
+    “And thy brethren also, the tribe of Levi, the tribe of thy father, bring thou near with thee,
+    that they may be joined unto thee, and minister unto thee, thou and thy sons with thee being
+    before the tent of the testimony.”
+
+Pos. 23 — That the Levite shall serve in the Sanctuary
+    Bamidbar 18:23
+    “But the Levites alone shall do the service of the tent of meeting, and they shall bear their
+    iniquity; it shall be a statute for ever throughout your generations, and among the children of
+    Israel they shall have no inheritance.”
+
+Pos. 24 — That the priest shall wash his hands and feet at the time of service
+    Shemot 30:19
+    “And Aaron and his sons shall wash their hands and their feet thereat;”
+
+Pos. 25 — To kindle lights in the Sanctuary
+    Shemot 27:21
+    “In the tent of meeting, without the veil which is before the testimony, Aaron and his sons
+    shall set it in order, to burn from evening to morning before the LORD; it shall be a statute
+    for ever throughout their generations on the behalf of the children of Israel.”
+
+Pos. 26 — That the priests shall bless Israel
+    Bamidbar 6:23
+    “‘Speak unto Aaron and unto his sons, saying: On this wise ye shall bless the children of
+    Israel; ye shall say unto them:”
+
+Pos. 27 — To set the shew-bread and the frankincense before the Lord every Sabbath
+    Shemot 25:30
+    “And thou shalt set upon the table showbread before Me alway.”
+
+Pos. 28 — To offer up incense twice daily
+    Shemot 30:7
+    “And Aaron shall burn thereon incense of sweet spices; every morning, when he dresseth the
+    lamps, he shall burn it.”
+
+Pos. 29 — To keep fire always burning on the altar of the burnt-offering
+    Vayikra 6:6
+    “Fire shall be kept burning upon the altar continually; it shall not go out.”
+
+Pos. 30 — To remove the ashes from the altar
+    Vayikra 6:3
+    “And the priest shall put on his linen garment, and his linen breeches shall he put upon his
+    flesh; and he shall take up the ashes whereto the fire hath consumed the burnt-offering on the
+    altar, and he shall put them beside the altar.”
+
+Pos. 31 — To send the unclean out of the Camp of the Shechinah, that is, out of the Sanctuary
+    Bamidbar 5:2
+    “‘Command the children of Israel, that they put out of the camp every leper, and every one that
+    hath an issue, and whosoever is unclean by the dead;”
+
+Pos. 32 — To show honour to a descendant of Aaron, and to give him precedence in all things that are holy
+    Vayikra 21:8
+    “Thou shalt sanctify him therefore; for he offereth the bread of thy God; he shall be holy unto
+    thee; for I the LORD, who sanctify you, am holy.”
+
+Pos. 33 — That the priests shall put on priestly vestments for the service
+    Shemot 28:2
+    “And thou shalt make holy garments for Aaron thy brother, for splendour and for beauty.”
+
+Pos. 34 — That, when the Ark is carried, it should be carried on the shoulder
+    Bamidbar 7:9
+    “But unto the sons of Kohath he gave none, because the service of the holy things belonged unto
+    them: they bore them upon their shoulders.”
+
+Pos. 35 — To anoint high priests and kings with the oil of anointment
+    Shemot 30:31
+    “And thou shalt speak unto the children of Israel, saying: This shall be a holy anointing oil
+    unto Me throughout your generations.”
+
+Pos. 36 — That the priests shall serve in the Sanctuary, in divisions, but on festivals, they all serve together
+    Devarim 18:6–8
+    “[6] And if a Levite come from any of thy gates out of all Israel, where he sojourneth, and come
+    with all the desire of his soul unto the place which the LORD shall choose; […verses 7–8
+    continue; first verse shown]”
+
+Pos. 37 — That the priests defile themselves for their deceased relatives, and mourn for them like other Israelites, who are commanded to mourn for their relatives
+    Vayikra 21:3
+    “and for his sister a virgin, that is near unto him, that hath had no husband, for her may he
+    defile himself.”
+
+Pos. 38 — That the High Priest shall marry a virgin
+    Vayikra 21:13
+    “And he shall take a wife in her virginity.”
+
+Pos. 39 — To offer up the regular sacrifices daily
+    Bamidbar 28:3
+    “And thou shalt say unto them: This is the offering made by fire which ye shall bring unto the
+    LORD: he-lambs of the first year without blemish, two day by day, for a continual burnt-
+    offering.”
+
+Pos. 40 — That the High Priest shall offer a meal-offering daily
+    Vayikra 6:13
+    “This is the offering of Aaron and of his sons, which they shall offer unto the LORD in the day
+    when he is anointed: the tenth part of an ephah of fine flour for a meal-offering perpetually,
+    half of it in the morning, and half thereof in the evening.”
+
+Pos. 41 — To offer up an additional sacrifice every Sabbath
+    Bamidbar 28:9
+    “And on the sabbath day two he-lambs of the first year without blemish, and two tenth parts of
+    an ephah of fine flour for a meal-offering, mingled with oil, and the drink-offering thereof.”
+
+Pos. 42 — To offer up an additional sacrifice every New Moon
+    Bamidbar 28:11
+    “And in your new moons ye shall present a burnt-offering unto the LORD: two young bullocks, and
+    one ram, seven he-lambs of the first year without blemish;”
+
+Pos. 43 — To offer up an additional sacrifice on the Feast of Passover
+    Vayikra 23:36
+    “Seven days ye shall bring an offering made by fire unto the LORD; on the eighth day shall be a
+    holy convocation unto you; and ye shall bring an offering made by fire unto the LORD; it is a
+    day of solemn assembly; ye shall do no manner of servile work.”
+    Note: Hyamson and Glazer both print Lev. 23:36 for this commandment, and it is kept as their
+    citation. In the Torah text, that verse belongs to the passage on the eighth day after Sukkot.
+    The Passover week, and the offerings brought on its days, are in Lev. 23:8 and Num. 28:16–24.
+
+Pos. 44 — To offer up the meal-offering of the Omer on the morrow after the first day of Passover, together with one lamb
+    Vayikra 23:10
+    “Speak unto the children of Israel, and say unto them: When ye are come into the land which I
+    give unto you, and shall reap the harvest thereof, then ye shall bring the sheaf of the first-
+    fruits of your harvest unto the priest.”
+
+Pos. 45 — To bring an additional offering on the Feast of Weeks
+    Bamidbar 28:26–27
+    “[26] Also in the day of the first-fruits, when ye bring a new meal-offering unto the LORD in
+    your feast of weeks, ye shall have a holy convocation: ye shall do no manner of servile work;
+    [27] but ye shall present a burnt-offering for a sweet savour unto the LORD: two young bullocks,
+    one ram, seven he-lambs of the first year;”
+
+Pos. 46 — To bring on the Feast of Weeks loaves of bread together with the sacrifices which are then offered up in connection with the loaves
+    Vayikra 23:17–20
+    “[17] Ye shall bring out of your dwellings two wave-loaves of two tenth parts of an ephah; they
+    shall be of fine flour, they shall be baked with leaven, for first-fruits unto the LORD.
+    […verses 18–20 continue; first verse shown]”
+
+Pos. 47 — To offer up an additional sacrifice on the New Year
+    Bamidbar 29:1–6
+    “[1] And in the seventh month, on the first day of the month, ye shall have a holy convocation:
+    ye shall do no manner of servile work; it is a day of blowing the horn unto you. […verses 2–6
+    continue; first verse shown]”
+
+Pos. 48 — To offer up an additional sacrifice on the Day of the Fast (Day of Atonement)
+    Bamidbar 29:7–8
+    “[7] And on the tenth day of this seventh month ye shall have a holy convocation; and ye shall
+    afflict your souls; ye shall do no manner of work; [8] but ye shall present a burnt-offering
+    unto the LORD for a sweet savour: one young bullock, one ram, seven he-lambs of the first year;
+    they shall be unto you without blemish;”
+
+Pos. 49 — To observe, on the Day of the Fast, the service appointed for that day
+    Vayikra 16:3–34
+    “[3] Herewith shall Aaron come into the holy place: with a young bullock for a sin-offering, and
+    a ram for a burnt-offering. […verses 4–34 continue; first verse shown]”
+
+Pos. 50 — To offer up an additional sacrifice on the Feast of Tabernacles
+    Bamidbar 29:12–34
+    “[12] And on the fifteenth day of the seventh month ye shall have a holy convocation: ye shall
+    do no manner of servile work, and ye shall keep a feast unto the LORD seven days; […verses 13–34
+    continue; first verse shown]”
+
+Pos. 51 — To offer up an additional offering on the Eighth Day of Solemn Assembly, which is a feast by itself
+    Bamidbar 29:35–38
+    “[35] On the eighth day ye shall have a solemn assembly: ye shall do no manner of servile work;
+    […verses 36–38 continue; first verse shown]”
+
+Pos. 52 — To celebrate the feasts
+    Shemot 23:14
+    “Three times thou shalt keep a feast unto Me in the year.”
+
+Pos. 53 — To appear (in the Sanctuary) on the feast
+    Devarim 16:16
+    “Three times in a year shall all thy males appear before the LORD thy God in the place which He
+    shall choose; on the feast of unleavened bread, and on the feast of weeks, and on the feast of
+    tabernacles; and they shall not appear before the LORD empty;”
+
+Pos. 54 — To rejoice on the feasts
+    Devarim 16:14
+    “And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy man-servant,
+    and thy maid-servant, and the Levite, and the stranger, and the fatherless, and the widow, that
+    are within thy gates.”
+
+Pos. 55 — To slay the Paschal lamb
+    Shemot 12:6
+    “and ye shall keep it unto the fourteenth day of the same month; and the whole assembly of the
+    congregation of Israel shall kill it at dusk.”
+
+Pos. 56 — To eat the flesh of the Paschal sacrifice, on the night of the fifteenth of Nissan
+    Shemot 12:8
+    “And they shall eat the flesh in that night, roast with fire, and unleavened bread; with bitter
+    herbs they shall eat it.”
+
+Pos. 57 — To observe the second Passover
+    Bamidbar 9:11
+    “in the second month on the fourteenth day at dusk they shall keep it; they shall eat it with
+    unleavened bread and bitter herbs;”
+
+Pos. 58 — To eat the flesh of the Paschal lamb on it, with unleavened bread and bitter herbs
+    Bamidbar 9:11
+    (JPS text as at Pos. 57)
+
+Pos. 59 — To sound the trumpets at the offering of sacrifices and in times of trouble
+    Bamidbar 10:9–10
+    “[9] And when ye go to war in your land against the adversary that oppresseth you, then ye shall
+    sound an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye
+    shall be saved from your enemies. [10] Also in the day of your gladness, and in your appointed
+    seasons, and in your new moons, ye shall blow with the trumpets over your burnt-offerings, and
+    over the sacrifices of your peace-offerings; and they shall be to you for a memorial before your
+    God: I am the LORD your God.’”
+
+Pos. 60 — That sacrifices of cattle can only take place when they are at least eight days old
+    Vayikra 22:27
+    “When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the
+    dam; but from the eighth day and thenceforth it may be accepted for an offering made by fire
+    unto the LORD.”
+
+Pos. 61 — That every animal offered up shall be without blemish
+    Vayikra 22:21
+    “And whosoever bringeth a sacrifice of peace-offerings unto the LORD in fulfilment of a vow
+    clearly uttered, or for a freewill-offering, of the herd or of the flock, it shall be perfect to
+    be accepted; there shall be no blemish therein.”
+
+Pos. 62 — That every sacrifice be salted
+    Vayikra 2:13
+    “And every meal-offering of thine shalt thou season with salt; neither shalt thou suffer the
+    salt of the covenant of thy God to be lacking from thy meal-offering; with all thy offerings
+    thou shalt offer salt.”
+
+Pos. 63 — To observe the procedure of the burnt-offering
+    Vayikra 1:3
+    “If his offering be a burnt-offering of the herd, he shall offer it a male without blemish; he
+    shall bring it to the door of the tent of meeting, that he may be accepted before the LORD.”
+
+Pos. 64 — To observe the procedure of the sin-offering
+    Vayikra 6:18
+    “Speak unto Aaron and to his sons, saying: This is the law of the sin-offering: in the place
+    where the burnt-offering is killed shall the sin-offering be killed before the LORD; it is most
+    holy.”
+
+Pos. 65 — To observe the procedure of the trespass-offering
+    Vayikra 7:1
+    “And this is the law of the guilt-offering: it is most holy.”
+
+Pos. 66 — To observe the procedure, of the peace-offering
+    Vayikra 7:11
+    “And this is the law of the sacrifice of peace-offerings, which one may offer unto the LORD.”
+
+Pos. 67 — To observe the procedure of the meal-offering
+    Vayikra 2:1
+    “And when any one bringeth a meal-offering unto the LORD, his offering shall be of fine flour;
+    and he shall pour oil upon it, and put frankincense thereon.”
+
+Pos. 68 — That the Court of Judgment shall offer up a sacrifice, if they have erred in a judicial pronouncement
+    Vayikra 4:13
+    “And if the whole congregation of Israel shall err, the thing being hid from the eyes of the
+    assembly, and do any of the things which the LORD hath commanded not to be done, and are
+    guilty:”
+
+Pos. 69 — That an individual shall bring a sin-offering, if he has sinned in error by committing a transgression, the conscious violation of which is punished with excision
+    Vayikra 4:27
+    “And if any one of the common people sin through error, in doing any of the things which the
+    LORD hath commanded not to be done, and be guilty:”
+
+Pos. 70 — That an individual shall bring an offering, if he is in doubt as to whether he has committed a sin for which one has to bring a sin-offering
+    Vayikra 5:17–19
+    “[17] And if any one sin, and do any of the things which the LORD hath commanded not to be done,
+    though he know it not, yet is he guilty, and shall bear his iniquity. […verses 18–19 continue;
+    first verse shown]”
+
+Pos. 71 — That an offering shall be brought by one who has in error committed a trespass against sacred things, or robbed, or lain carnally with a bond-maid betrothed to a man, or denied what was deposited with him and swore falsely to support his denial
+    Vayikra 5:15–16
+    “[15] If any one commit a trespass, and sin through error, in the holy things of the LORD, then
+    he shall bring his forfeit unto the LORD, a ram without blemish out of the flock, according to
+    thy valuation in silver by shekels, after the shekel of the sanctuary, for a guilt-offering.
+    [16] And he shall make restitution for that which he hath done amiss in the holy thing, and
+    shall add the fifth part thereto, and give it unto the priest; and the priest shall make
+    atonement for him with the ram of the guilt-offering, and he shall be forgiven.”
+    Also cited: Vayikra 5:21 (Young); Vayikra 19:20 (Young)
+    Note: Hyamson gives no verse; the verses are taken from Young (Lev. 5:15-16; 5:21 [Eng. 6:2];
+    19:20).
+
+Pos. 72 — To offer a sacrifice of varying value in accordance with one’s means
+    Vayikra 5:7
+    “And if his means suffice not for a lamb, then he shall bring his forfeit for that wherein he
+    hath sinned, two turtle-doves, or two young pigeons, unto the LORD: one for a sin-offering, and
+    the other for a burnt-offering.”
+
+Pos. 73 — To make confession, before the Lord, of any sin that one has committed, when bringing a sacrifice and at other times
+    Bamidbar 5:7
+    “then they shall confess their sin which they have done; and he shall make restitution for his
+    guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom
+    he hath been guilty.”
+
+Pos. 74 — That a man having an issue shall bring a sacrifice, after he is cleansed of his issue
+    Vayikra 15:13–15
+    “[13] And when he that hath an issue is cleansed of his issue, then he shall number to himself
+    seven days for his cleansing, and wash his clothes; and he shall bathe his flesh in running
+    water, and shall be clean. […verses 14–15 continue; first verse shown]”
+
+Pos. 75 — That a woman having an issue shall bring a sacrifice, after she is cleansed of her issue
+    Vayikra 15:28–30
+    “[28] But if she be cleansed of her issue, then she shall number to herself seven days, and
+    after that she shall be clean. […verses 29–30 continue; first verse shown]”
+
+Pos. 76 — That a woman after childbirth, shall bring an offering when she is clean
+    Vayikra 12:6
+    “And when the days of her purification are fulfilled, for a son, or for a daughter, she shall
+    bring a lamb of the first year for a burnt-offering, and a young pigeon, or a turtle-dove, for a
+    sin-offering, unto the door of the tent of meeting, unto the priest.”
+
+Pos. 77 — That the leper shall bring a sacrifice, after he is cleansed
+    Vayikra 14:10
+    “And on the eighth day he shall take two he-lambs without blemish, and one ewe-lamb of the first
+    year without blemish, and three tenth parts of an ephah of fine flour for a meal-offering,
+    mingled with oil, and one log of oil.”
+
+Pos. 78 — To tithe cattle
+    Vayikra 27:32
+    “And all the tithe of the herd or the flock, whatsoever passeth under the rod, the tenth shall
+    be holy unto the LORD.”
+
+Pos. 79 — To sanctify the firstling of clean cattle and offer it up
+    Devarim 15:19
+    “All the firstling males that are born of thy herd and of thy flock thou shalt sanctify unto the
+    LORD thy God; thou shalt do no work with the firstling of thine ox, nor shear the firstling of
+    thy flock.”
+
+Pos. 80 — To redeem the firstborn male
+    Bamidbar 18:15
+    “Every thing that openeth the womb, of all flesh which they offer unto the LORD, both of man and
+    beast, shall be thine; howbeit the first-born of man shalt thou surely redeem, and the firstling
+    of unclean beasts shalt thou redeem.”
+
+Pos. 81 — To redeem the firstling of an ass
+    Shemot 13:13
+    “And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it,
+    then thou shalt break its neck; and all the first-born of man among thy sons shalt thou redeem.”
+
+Pos. 82 — To break the neck of such firstling if it be not redeemed
+    Shemot 13:13
+    (JPS text as at Pos. 81)
+
+Pos. 83 — To bring all offerings, whether obligatory or freewill, on the first festival after these were incurred
+    Devarim 12:5–6
+    “[5] But unto the place which the LORD your God shall choose out of all your tribes to put His
+    name there, even unto His habitation shall ye seek, and thither thou shalt come; [6] and thither
+    ye shall bring your burnt-offerings, and your sacrifices, and your tithes, and the offering of
+    your hand, and your vows, and your freewill-offerings, and the firstlings of your herd and of
+    your flock;”
+
+Pos. 84 — To offer all sacrifices in the Sanctuary
+    Devarim 12:14
+    “but in the place which the LORD shall choose in one of thy tribes, there thou shalt offer thy
+    burnt-offerings, and there thou shalt do all that I command thee.”
+
+Pos. 85 — To take trouble to bring sacrifices to the Sanctuary from places outside the land of Israel
+    Devarim 12:26
+    “Only thy holy things which thou hast, and thy vows, thou shalt take, and go unto the place
+    which the LORD shall choose;”
+
+Pos. 86 — To redeem cattle, set apart for sacrifices, that contracted disqualifying blemishes, after which they may be eaten by anyone
+    Devarim 12:15
+    “Notwithstanding thou mayest kill and eat flesh within all thy gates, after all the desire of
+    thy soul, according to the blessing of the LORD thy God which He hath given thee; the unclean
+    and the clean may eat thereof, as of the gazelle, and as of the hart.”
+
+Pos. 87 — If a beast is exchanged for one that had been set apart as an offering, both become sacred
+    Vayikra 27:10
+    “He shall not alter it, nor change it, a good for a bad, or a bad for a good; and if he shall at
+    all change beast for beast, then both it and that for which it is changed shall be holy.”
+
+Pos. 88 — That the remainder of the meal-offerings shall be eaten
+    Vayikra 6:9
+    “And that which is left thereof shall Aaron and his sons eat; it shall be eaten without leaven
+    in a holy place; in the court of the tent of meeting they shall eat it.”
+
+Pos. 89 — That the flesh of a sin-offering and trespass-offering shall be eaten
+    Shemot 29:33
+    “And they shall eat those things wherewith atonement was made, to consecrate and to sanctify
+    them; but a stranger shall not eat thereof, because they are holy.”
+
+Pos. 90 — To burn meat of the holy (sacrifice) that has become unclean
+    Vayikra 7:19
+    “And the flesh that toucheth any unclean thing shall not be eaten; it shall be burnt with fire.
+    And as for the flesh, every one that is clean may eat thereof.”
+
+Pos. 91 — To burn meat of the holy (sacrifice) that has remained over
+    Vayikra 7:17
+    “But that which remaineth of the flesh of the sacrifice on the third day shall be burnt with
+    fire.”
+
+Pos. 92 — That the Nazarite shall permit his hair to grow
+    Bamidbar 6:5
+    “All the days of his vow of Naziriteship there shall no razor come upon his head; until the days
+    be fulfilled, in which he consecrateth himself unto the LORD, he shall be holy, he shall let the
+    locks of the hair of his head grow long.”
+
+Pos. 93 — That the Nazarite shall shave his hair when he brings his offerings at the completion of the period of his Nazariteship, or within that period, if he has become defiled
+    Bamidbar 6:9
+    “And if any man die very suddenly beside him, and he defile his consecrated head, then he shall
+    shave his head in the day of his cleansing, on the seventh day shall he shave it.”
+
+Pos. 94 — That a man should fulfill whatever he has uttered, whether in regard to an offering or to charity, and so forth
+    Devarim 23:24
+    “That which is gone out of thy lips thou shalt observe and do; according as thou hast vowed
+    freely unto the LORD thy God, even that which thou hast promised with thy mouth.”
+
+Pos. 95 — To decide in cases of annulment of vows, according to the rules set forth in the Torah
+    Bamidbar 30:2–17
+    “[2] And Moses spoke unto the heads of the tribes of the children of Israel, saying: This is the
+    thing which the LORD hath commanded. […verses 3–17 continue; first verse shown]”
+
+Pos. 96 — That anyone who touches the carcass of a beast that died of itself shall be unclean
+    Vayikra 11:39
+    “And if any beast, of which ye may eat, die, he that toucheth the carcass thereof shall be
+    unclean until the even.”
+
+Pos. 97 — That eight species of creeping things defile by contact
+    Vayikra 11:29–30
+    “[29] And these are they which are unclean unto you among the swarming things that swarm upon
+    the earth: the weasel, and the mouse, and the great lizard after its kinds, [30] and the gecko,
+    and the land-crocodile, and the lizard, and the sand-lizard, and the chameleon.”
+
+Pos. 98 — That foods become defiled (by contact with unclean things)
+    Vayikra 11:34
+    “All food therein which may be eaten, that on which water cometh, shall be unclean; and all
+    drink in every such vessel that may be drunk shall be unclean.”
+
+Pos. 99 — That a menstruating woman is unclean and defiles others
+    Vayikra 15:19–24
+    “[19] And if a woman have an issue, and her issue in her flesh be blood, she shall be in her
+    impurity seven days; and whosoever toucheth her shall be unclean until the even. […verses 20–24
+    continue; first verse shown]”
+
+Pos. 100 — That a lying-in woman is unclean like a menstruating woman
+    Vayikra 12:2–5
+    “[2] Speak unto the children of Israel, saying: If a woman be delivered, and bear a man-child,
+    then she shall be unclean seven days; as in the days of the impurity of her sickness shall she
+    be unclean. […verses 3–5 continue; first verse shown]”
+
+Pos. 101 — That a leper is unclean and defiles
+    Vayikra 13:2–46
+    “[2] When a man shall have in the skin of his flesh a rising, or a scab, or a bright spot, and
+    it become in the skin of his flesh the plague of leprosy, then he shall be brought unto Aaron
+    the priest, or unto one of his sons the priests. […verses 3–46 continue; first verse shown]”
+
+Pos. 102 — That a leprous garment is unclean and defiles
+    Vayikra 13:47–59
+    “[47] And when the plague of leprosy is in a garment, whether it be a woolen garment, or a linen
+    garment; […verses 48–59 continue; first verse shown]”
+
+Pos. 103 — That a leprous house defiles
+    Vayikra 14:34–46
+    “[34] When ye are come into the land of Canaan, which I give to you for a possession, and I put
+    the plague of leprosy in a house of the land of your possession; […verses 35–46 continue; first
+    verse shown]”
+
+Pos. 104 — That a man, having a running issue, defiles
+    Vayikra 15:1–15
+    “[1] And the LORD spoke unto Moses and to Aaron, saying: […verses 2–15 continue; first verse
+    shown]”
+
+Pos. 105 — That the seed of copulation defiles
+    Vayikra 15:16
+    “And if the flow of seed go out from a man, then he shall bathe all his flesh in water, and be
+    unclean until the even.”
+
+Pos. 106 — That a woman, having a running issue, defiles
+    Vayikra 15:25–27
+    “[25] And if a woman have an issue of her blood many days not in the time of her impurity, or if
+    she have an issue beyond the time of her impurity; all the days of the issue of her uncleanness
+    she shall be as in the days of her impurity: she is unclean. […verses 26–27 continue; first
+    verse shown]”
+
+Pos. 107 — That a corpse defiles
+    Bamidbar 19:11–16
+    “[11] He that toucheth the dead, even any man’s dead body, shall be unclean seven days; […verses
+    12–16 continue; first verse shown]”
+
+Pos. 108 — That the waters of separation defile one who is clean, and cleanse the unclean from pollution by a dead body
+    Bamidbar 19:19–22
+    “[19] And the clean person shall sprinkle upon the unclean on the third day, and on the seventh
+    day; and on the seventh day he shall purify him; and he shall wash his clothes, and bathe
+    himself in water, and shall be clean at even. […verses 20–22 continue; first verse shown]”
+
+Pos. 109 — That purification from all kinds of defilement shall be effected by immersion in the waters of a Mikvah
+    Vayikra 15:16
+    “And if the flow of seed go out from a man, then he shall bathe all his flesh in water, and be
+    unclean until the even.”
+
+Pos. 110 — That the procedure of cleansing leprosy, whether of a man or of a house, takes place with cedar-wood, hyssop, scarlet thread, two birds, and running water
+    Vayikra 14:1–7
+    “[1] And the LORD spoke unto Moses, saying: […verses 2–7 continue; first verse shown]”
+
+Pos. 111 — That the leper shall shave all his hair
+    Vayikra 14:9
+    “And it shall be on the seventh day, that he shall shave all his hair off his head and his beard
+    and his eyebrows, even all his hair he shall shave off; and he shall wash his clothes, and he
+    shall bathe his flesh in water, and he shall be clean.”
+
+Pos. 112 — That the leper shall be universally recognised as such by the prescribed marks
+    Vayikra 13:45
+    “And the leper in whom the plague is, his clothes shall be rent, and the hair of his head shall
+    go loose, and he shall cover his upper lip, and shall cry: ‘Unclean, unclean.’”
+
+Pos. 113 — To carry out the ordinance of the Red Heifer so that its ashes shall be always available
+    Bamidbar 19:9
+    “And a man that is clean shall gather up the ashes of the heifer, and lay them up without the
+    camp in a clean place, and it shall be kept for the congregation of the children of Israel for a
+    water of sprinkling; it is a purification from sin.”
+
+Pos. 114 — That one who vows to the Lord the monetary value of a person shall pay the amount appointed in the Scriptural portion
+    Vayikra 27:2–8
+    “[2] Speak unto the children of Israel, and say unto them: When a man shall clearly utter a vow
+    of persons unto the LORD, according to thy valuation, […verses 3–8 continue; first verse shown]”
+
+Pos. 115 — That one, who vows to the Lord the monetary value of an unclean beast, shall pay its value
+    Vayikra 27:11–13
+    “[11] And if it be any unclean beast, of which they may not bring an offering unto the LORD,
+    then he shall set the beast before the priest. […verses 12–13 continue; first verse shown]”
+
+Pos. 116 — That one, who vows the value of his house, shall pay according to the appraisal of the priest
+    Vayikra 27:14–15
+    “[14] And when a man shall sanctify his house to be holy unto the LORD, then the priest shall
+    value it, whether it be good or bad; as the priest shall value it, so shall it stand. [15] And
+    if he that sanctified it will redeem his house, then he shall add the fifth part of the money of
+    thy valuation unto it, and it shall be his.”
+
+Pos. 117 — That one who sanctifies to the Lord a portion of his field, shall pay according to the estimation appointed in the Scriptural portion
+    Vayikra 27:16–24
+    “[16] And if a man shall sanctify unto the LORD part of the field of his possession, then thy
+    valuation shall be according to the sowing thereof; the sowing of a homer of barley shall be
+    valued at fifty shekels of silver. […verses 17–24 continue; first verse shown]”
+
+Pos. 118 — That he who, in error, makes unlawful use of sacred things, shall make restitution of the value of his trespass and add a fifth
+    Vayikra 5:16
+    “And he shall make restitution for that which he hath done amiss in the holy thing, and shall
+    add the fifth part thereto, and give it unto the priest; and the priest shall make atonement for
+    him with the ram of the guilt-offering, and he shall be forgiven.”
+
+Pos. 119 — That the fruit of fruit-bearing trees in the fourth year of their planting shall be sacred
+    Vayikra 19:24
+    “And in the fourth year all the fruit thereof shall be holy, for giving praise unto the LORD.”
+
+Pos. 120 — To leave the harvest of the corner of the field or orchard for the poor
+    Vayikra 19:9
+    “And when ye reap the harvest of your land, thou shalt not wholly reap the corner of thy field,
+    neither shalt thou gather the gleaning of thy harvest.”
+
+Pos. 121 — To leave the gleanings of the harvest for the poor
+    Vayikra 19:9
+    (JPS text as at Pos. 120)
+
+Pos. 122 — To leave the forgotten sheaves for the poor
+    Devarim 24:19–20
+    “[19] When thou reapest thy harvest in thy field, and hast forgot a sheaf in the field, thou
+    shalt not go back to fetch it; it shall be for the stranger, for the fatherless, and for the
+    widow; that the LORD thy God may bless thee in all the work of thy hands. [20] When thou beatest
+    thine olive-tree, thou shalt not go over the boughs again; it shall be for the stranger, for the
+    fatherless, and for the widow.”
+
+Pos. 123 — To leave for the poor, the gleanings of the vineyard
+    Vayikra 19:10
+    “And thou shalt not glean thy vineyard, neither shalt thou gather the fallen fruit of thy
+    vineyard; thou shalt leave them for the poor and for the stranger: I am the LORD your God.”
+    Also cited: Devarim 24:21 (Hyamson)
+
+Pos. 124 — To leave for the poor, the single grapes of the vineyard
+    Vayikra 19:10
+    (JPS text as at Pos. 123)
+
+Pos. 125 — To bring the first-fruits to the Sanctuary
+    Shemot 23:19
+    “The choicest first-fruits of thy land thou shalt bring into the house of the LORD thy God. Thou
+    shalt not seethe a kid in its mother’s milk.”
+
+Pos. 126 — To set apart the great heave-offering for the priest
+    Devarim 18:4
+    “The first-fruits of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy
+    sheep, shalt thou give him.”
+
+Pos. 127 — To set apart the tithe of the corn for the Levites
+    Vayikra 27:30
+    “And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is
+    the LORD’S; it is holy unto the LORD.”
+
+Pos. 128 — To set apart the second tithe to be eaten by its owner in Jerusalem
+    Devarim 14:22
+    “Thou shalt surely tithe all the increase of thy seed, that which is brought forth in the field
+    year by year.”
+
+Pos. 129 — That the Levites shall set apart a tithe of the tithes, which they had received from the Israelites, and give it to the priests
+    Bamidbar 18:26
+    “‘Moreover thou shalt speak unto the Levites, and say unto them: When ye take of the children of
+    Israel the tithe which I have given you from them for your inheritance, then ye shall set apart
+    of it a gift for the LORD, even a tithe of the tithe.”
+
+Pos. 130 — To set apart in the third and sixth year the tithe for the poor, instead of the second tithe
+    Devarim 14:28–29
+    “[28] At the end of every three years, even in the same year, thou shalt bring forth all the
+    tithe of thine increase, and shall lay it up within thy gates. [29] And the Levite, because he
+    hath no portion nor inheritance with thee, and the stranger, and the fatherless, and the widow,
+    that are within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may
+    bless thee in all the work of thy hand which thou doest.”
+
+Pos. 131 — To make the declaration, when bringing the second tithe to the Sanctuary
+    Devarim 26:13–16
+    “[13] then thou shalt say before the LORD thy God: ‘I have put away the hallowed things out of
+    my house, and also have given them unto the Levite, and unto the stranger, to the fatherless,
+    and to the widow, according to all Thy commandment which Thou hast commanded me; I have not
+    transgressed any of Thy commandments, neither have I forgotten them. […verses 14–16 continue;
+    first verse shown]”
+
+Pos. 132 — To read the portion prescribed on bringing the first fruits
+    Devarim 26:5–10
+    “[5] And thou shalt speak and say before the LORD thy God: ‘A wandering Aramean was my father,
+    and he went down into Egypt, and sojourned there, few in number; and he became there a nation,
+    great, mighty, and populous. […verses 6–10 continue; first verse shown]”
+
+Pos. 133 — To set apart a portion of the dough for the priest
+    Bamidbar 15:20
+    “Of the first of your dough ye shall set apart a cake for a gift; as that which is set apart of
+    the threshing-floor, so shall ye set it apart.”
+
+Pos. 134 — To let the land lie fallow (in the Sabbatical year)
+    Shemot 23:11
+    “but the seventh year thou shalt let it rest and lie fallow, that the poor of thy people may
+    eat; and what they leave the beast of the field shall eat. In like manner thou shalt deal with
+    thy vineyard, and with thy oliveyard.”
+
+Pos. 135 — To cease from tilling the land (in that year)
+    Shemot 34:21
+    “Six days thou shalt work, but on the seventh day thou shalt rest; in plowing time and in
+    harvest thou shalt rest.”
+
+Pos. 136 — To keep the Jubilee year holy by resting and letting the land lie fallow
+    Vayikra 25:10
+    “And ye shall hallow the fiftieth year, and proclaim liberty throughout the land unto all the
+    inhabitants thereof; it shall be a jubilee unto you; and ye shall return every man unto his
+    possession, and ye shall return every man unto his family.”
+
+Pos. 137 — To sound the Ram’s horn in the Jubilee year
+    Vayikra 25:9
+    “Then shalt thou make proclamation with the blast of the horn on the tenth day of the seventh
+    month; in the day of atonement shall ye make proclamation with the horn throughout all your
+    land.”
+    Note: Hyamson’s printed title reads “in the Sabbatical year”, but the verse he quotes (Lev.
+    25:9) is “the trumpet of the Jubilee”, and Glazer’s list (1927) reads “when the Jubilee year is
+    ushered in”. The title is corrected to the Jubilee year.
+
+Pos. 138 — To grant redemption to the land in the Jubilee year
+    Vayikra 25:24
+    “And in all the land of your possession ye shall grant a redemption for the land.”
+
+Pos. 139 — That houses sold within a walled city may be redeemed within a year
+    Vayikra 25:29
+    “And if a man sell a dwelling-house in a walled city, then he may redeem it within a whole year
+    after it is sold; for a full year shall he have the right of redemption.”
+
+Pos. 140 — To count the years of the Jubilee by years and by cycles of seven years
+    Vayikra 25:8
+    “And thou shalt number seven sabbaths of years unto thee, seven times seven years; and there
+    shall be unto thee the days of seven sabbaths of years, even forty and nine years.”
+
+Pos. 141 — To release debts in the seventh year
+    Devarim 15:2
+    “And this is the manner of the release: every creditor shall release that which he hath lent
+    unto his neighbour; he shall not exact it of his neighbour and his brother; because the LORD’S
+    release hath been proclaimed.”
+
+Pos. 142 — To exact the debt of an alien
+    Devarim 15:3
+    “Of a foreigner thou mayest exact it; but whatsoever of thine is with thy brother thy hand shall
+    release.”
+
+Pos. 143 — To give to the priest the due portions of the carcass of cattle
+    Devarim 18:3
+    “And this shall be the priests’ due from the people, from them that offer a sacrifice, whether
+    it be ox or sheep, that they shall give unto the priest the shoulder, and the two cheeks, and
+    the maw.”
+
+Pos. 144 — To give the first of the fleece to the priest
+    Devarim 18:4
+    “The first-fruits of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy
+    sheep, shalt thou give him.”
+
+Pos. 145 — To decide in regard to dedicated property as to which is sacred to the Lord, and which belongs to the priest
+    Vayikra 27:28
+    “Notwithstanding, no devoted thing, that a man may devote unto the LORD of all that he hath,
+    whether of man or beast, or of the field of his possession, shall be sold or redeemed; every
+    devoted thing is most holy unto the LORD.”
+
+Pos. 146 — To slay, according to the ritual, cattle, deer, and fowl, and then their flesh may be eaten
+    Devarim 12:21
+    “If the place which the LORD thy God shall choose to put His name there be too far from thee,
+    then thou shalt kill of thy herd and of thy flock, which the LORD hath given thee, as I have
+    commanded thee, and thou shalt eat within thy gates, after all the desire of thy soul.”
+
+Pos. 147 — To cover the blood of undomesticated animals (deer, etc.) and of fowl, that have been killed
+    Vayikra 17:13
+    “And whatsoever man there be of the children of Israel, or of the strangers that sojourn among
+    them, that taketh in hunting any beast or fowl that may be eaten, he shall pour out the blood
+    thereof, and cover it with dust.”
+
+Pos. 148 — To set the mother-bird free when taking the nest
+    Devarim 22:6–7
+    “[6] If a bird’s nest chance to be before thee in the way, in any tree or on the ground, with
+    young ones or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take
+    the dam with the young; [7] thou shalt in any wise let the dam go, but the young thou mayest
+    take unto thyself; that it may be well with thee, and that thou mayest prolong thy days.”
+
+Pos. 149 — To examine the marks in cattle
+    Vayikra 11:2
+    “Speak unto the children of Israel, saying: These are the living things which ye may eat among
+    all the beasts that are on the earth.”
+
+Pos. 150 — To examine the marks in fowl, so as to distinguish between the unclean and the clean
+    Devarim 14:11
+    “Of all clean birds ye may eat.”
+
+Pos. 151 — To examine the marks in locusts, so as to distinguish the clean from the unclean
+    Vayikra 11:21
+    “Yet these may ye eat of all winged swarming things that go upon all fours, which have jointed
+    legs above their feet, wherewith to leap upon the earth;”
+
+Pos. 152 — To examine the marks in fishes
+    Vayikra 11:9
+    “These may ye eat of all that are in the waters: whatsoever hath fins and scales in the waters,
+    in the seas, and in the rivers, them may ye eat.”
+
+Pos. 153 — That the new month shall be solemnly proclaimed as holy, and the months and years shall be calculated by the Supreme Court only
+    Shemot 12:2
+    “‘This month shall be unto you the beginning of months; it shall be the first month of the year
+    to you.”
+
+Pos. 154 — To rest on the Sabbath
+    Shemot 23:12
+    “Six days thou shalt do thy work, but on the seventh day thou shalt rest; that thine ox and
+    thine ass may have rest, and the son of thy handmaid, and the stranger, may be refreshed.”
+    Also cited: Shemot 34:21 (Hyamson)
+
+Pos. 155 — To hallow the Sabbath
+    Shemot 20:8
+    “Remember the sabbath day, to keep it holy.”
+
+Pos. 156 — To remove leaven (on the Eve of Passover)
+    Shemot 12:15
+    “Seven days shall ye eat unleavened bread; howbeit the first day ye shall put away leaven out of
+    your houses; for whosoever eateth leavened bread from the first day until the seventh day, that
+    soul shall be cut off from Israel.”
+
+Pos. 157 — To discourse concerning the departure from Egypt on the first night of the Feast of Passover
+    Shemot 13:8
+    “And thou shalt tell thy son in that day, saying: It is because of that which the LORD did for
+    me when I came forth out of Egypt.”
+
+Pos. 158 — To eat unleavened bread on this night
+    Shemot 12:18
+    “In the first month, on the fourteenth day of the month at even, ye shall eat unleavened bread,
+    until the one and twentieth day of the month at even.”
+
+Pos. 159 — To rest on the first day of Passover
+    Shemot 12:16
+    “And in the first day there shall be to you a holy convocation, and in the seventh day a holy
+    convocation; no manner of work shall be done in them, save that which every man must eat, that
+    only may be done by you.”
+
+Pos. 160 — To rest on the seventh day of that feast
+    Shemot 12:16
+    (JPS text as at Pos. 159)
+
+Pos. 161 — To count forty-nine days from the time of cutting the Omer (first sheaves of the Barley Harvest)
+    Vayikra 23:15
+    “And ye shall count unto you from the morrow after the day of rest, from the day that ye brought
+    the sheaf of the waving; seven weeks shall there be complete;”
+
+Pos. 162 — To rest on the fiftieth day
+    Vayikra 23:21
+    “And ye shall make proclamation on the selfsame day; there shall be a holy convocation unto you;
+    ye shall do no manner of servile work; it is a statute for ever in all your dwellings throughout
+    your generations.”
+
+Pos. 163 — To rest on the first day of the seventh month
+    Vayikra 23:24
+    “Speak unto the children of Israel, saying: In the seventh month, in the first day of the month,
+    shall be a solemn rest unto you, a memorial proclaimed with the blast of horns, a holy
+    convocation.”
+
+Pos. 164 — To fast on the tenth day of that month
+    Vayikra 16:29
+    “And it shall be a statute for ever unto you: in the seventh month, on the tenth day of the
+    month, ye shall afflict your souls, and shall do no manner of work, the home-born, or the
+    stranger that sojourneth among you.”
+    Note: Hyamson prints Lev. 16:27, but the words he quotes are in Lev. 16:29, which Young and
+    Glazer also cite; 16:29 is used.
+
+Pos. 165 — To rest on the day of the Fast (Day of Atonement)
+    Vayikra 23:32
+    “It shall be unto you a sabbath of solemn rest, and ye shall afflict your souls; in the ninth
+    day of the month at even, from even unto even, shall ye keep your sabbath.”
+
+Pos. 166 — To rest on the first day of the Feast of Tabernacles
+    Vayikra 23:35
+    “On the first day shall be a holy convocation; ye shall do no manner of servile work.”
+
+Pos. 167 — To rest on the eighth day of that feast
+    Vayikra 23:36
+    “Seven days ye shall bring an offering made by fire unto the LORD; on the eighth day shall be a
+    holy convocation unto you; and ye shall bring an offering made by fire unto the LORD; it is a
+    day of solemn assembly; ye shall do no manner of servile work.”
+
+Pos. 168 — To dwell in booths seven days
+    Vayikra 23:42
+    “Ye shall dwell in booths seven days; all that are home-born in Israel shall dwell in booths;”
+
+Pos. 169 — To take on that feast a palm branch and the other three plants
+    Vayikra 23:40
+    “And ye shall take you on the first day the fruit of goodly trees, branches of palm-trees, and
+    boughs of thick trees, and willows of the brook, and ye shall rejoice before the LORD your God
+    seven days.”
+
+Pos. 170 — To hear the sound of the ram’s horn on the New Year
+    Bamidbar 29:1
+    “And in the seventh month, on the first day of the month, ye shall have a holy convocation: ye
+    shall do no manner of servile work; it is a day of blowing the horn unto you.”
+
+Pos. 171 — To give half a shekel every year (to the Sanctuary for provision of the public sacrifices)
+    Shemot 30:13
+    “This they shall give, every one that passeth among them that are numbered, half a shekel after
+    the shekel of the sanctuary—the shekel is twenty gerahs—half a shekel for an offering to the
+    LORD.”
+
+Pos. 172 — To heed the call of every prophet in each generation, provided that he neither adds to, nor takes away from the Torah
+    Devarim 18:15
+    “A prophet will the LORD thy God raise up unto thee, from the midst of thee, of thy brethren,
+    like unto me; unto him ye shall hearken;”
+
+Pos. 173 — To appoint a king
+    Devarim 17:15
+    “thou shalt in any wise set him king over thee, whom the LORD thy God shall choose; one from
+    among thy brethren shalt thou set king over thee; thou mayest not put a foreigner over thee, who
+    is not thy brother.”
+
+Pos. 174 — To accept the rulings of every Supreme Court in Israel
+    Devarim 17:11
+    “According to the law which they shall teach thee, and according to the judgment which they
+    shall tell thee, thou shalt do; thou shalt not turn aside from the sentence which they shall
+    declare unto thee, to the right hand, nor to the left.”
+
+Pos. 175 — To give the decision according to the majority, when there is a difference of opinion among the members of the Sanhedrin as to matters of law
+    Shemot 23:2
+    “Thou shalt not follow a multitude to do evil; neither shalt thou bear witness in a cause to
+    turn aside after a multitude to pervert justice;”
+
+Pos. 176 — To appoint judges and officers in every community of Israel
+    Devarim 16:18
+    “Judges and officers shalt thou make thee in all thy gates, which the LORD thy God giveth thee,
+    tribe by tribe; and they shall judge the people with righteous judgment.”
+
+Pos. 177 — To treat parties in a litigation with equal impartiality
+    Vayikra 19:15
+    “Ye shall do no unrighteousness in judgment; thou shalt not respect the person of the poor, nor
+    favour the person of the mighty; but in righteousness shalt thou judge thy neighbour.”
+
+Pos. 178 — That one who possesses evidence shall testify in Court
+    Vayikra 5:1
+    “And if any one sin, in that he heareth the voice of adjuration, he being a witness, whether he
+    hath seen or known, if he do not utter it, then he shall bear his iniquity;”
+
+Pos. 179 — To examine witnesses thoroughly
+    Devarim 13:15
+    “then shalt thou inquire, and make search, and ask diligently; and, behold, if it be truth, and
+    the thing certain, that such abomination is wrought in the midst of thee;”
+
+Pos. 180 — To do unto false witnesses, as they had purposed to do (to the accused)
+    Devarim 19:19
+    “then shall ye do unto him, as he had purposed to do unto his brother; so shalt thou put away
+    the evil from the midst of thee.”
+
+Pos. 181 — To decapitate the heifer in the manner prescribed
+    Devarim 21:4
+    “And the elders of that city shall bring down the heifer unto a rough valley, which may neither
+    be plowed nor sown, and shall break the heifer’s neck there in the valley.”
+
+Pos. 182 — To establish six cities of refuge (for those who had committed accidental homicide)
+    Devarim 19:3
+    “Thou shalt prepare thee the way, and divide the borders of thy land, which the LORD thy God
+    causeth thee to inherit, into three parts, that every manslayer may flee thither.”
+
+Pos. 183 — To give the Levites cities to dwell in, these to serve also as cities of refuge
+    Bamidbar 35:2
+    “‘Command the children of Israel, that they give unto the Levites of the inheritance of their
+    possession cities to dwell in; and open land round about the cities shall ye give unto the
+    Levites.”
+
+Pos. 184 — To make a parapet (for the roof)
+    Devarim 22:8
+    “When thou buildest a new house, then thou shalt make a parapet for thy roof, that thou bring
+    not blood upon thy house, if any man fall from thence.”
+
+Pos. 185 — To destroy idolatry and its appurtenances
+    Devarim 12:2–3
+    “[2] Ye shall surely destroy all the places, wherein the nations that ye are to dispossess
+    served their gods, upon the high mountains, and upon the hills, and under every leafy tree. [3]
+    And ye shall break down their altars, and dash in pieces their pillars, and burn their Asherim
+    with fire; and ye shall hew down the graven images of their gods; and ye shall destroy their
+    name out of that place.”
+
+Pos. 186 — To slay the inhabitants of a city that has become idolatrous and to burn that city
+    Devarim 13:16–17
+    “[16] thou shalt surely smite the inhabitants of that city with the edge of the sword,
+    destroying it utterly, and all that is therein and the cattle thereof, with the edge of the
+    sword. [17] And thou shalt gather all the spoil of it into the midst of the broad place thereof,
+    and shall burn with fire the city, and all the spoil thereof every whit, unto the LORD thy God;
+    and it shall be a heap for ever; it shall not be builded again.”
+
+Pos. 187 — To exterminate the seven Canaanite nations from the land of Israel
+    Devarim 20:17
+    “but thou shalt utterly destroy them: the Hittite, and the Amorite, the Canaanite, and the
+    Perizzite, the Hivite, and the Jebusite; as the LORD thy God hath commanded thee;”
+
+Pos. 188 — To destroy the seed of Amalek
+    Devarim 25:19
+    “Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round
+    about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that
+    thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget.”
+
+Pos. 189 — Always to keep in remembrance what Amalek did
+    Devarim 25:17
+    “Remember what Amalek did unto thee by the way as ye came forth out of Egypt;”
+
+Pos. 190 — In a permissive war, to observe the procedure prescribed in the Torah
+    Devarim 20:10
+    “When thou drawest nigh unto a city to fight against it, then proclaim peace unto it.”
+
+Pos. 191 — To anoint a special priest (to address the soldiers) in a war
+    Devarim 20:2
+    “And it shall be, when ye draw nigh unto the battle, that the priest shall approach and speak
+    unto the people,”
+
+Pos. 192 — To have a place outside the camp for sanitary purposes
+    Devarim 23:13
+    “Thou shalt have a place also without the camp, whither thou shalt go forth abroad.”
+
+Pos. 193 — To keep that place sanitary
+    Devarim 23:14–15
+    “[14] And thou shalt have a paddle among thy weapons; and it shall be, when thou sittest down
+    abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee.
+    [15] For the LORD thy God walketh in the midst of thy camp, to deliver thee, and to give up
+    thine enemies before thee; therefore shall thy camp be holy; that He see no unseemly thing in
+    thee, and turn away from thee.”
+
+Pos. 194 — To restore that which one took by robbery
+    Vayikra 5:23
+    “then it shall be, if he hath sinned, and is guilty, that he shall restore that which he took by
+    robbery, or the thing which he hath gotten by oppression, or the deposit which was deposited
+    with him, or the lost thing which he found,”
+
+Pos. 195 — To give alms
+    Devarim 15:11
+    “For the poor shall never cease out of the land; therefore I command thee, saying: ‘Thou shalt
+    surely open thy hand unto thy poor and needy brother, in thy land.’”
+
+Pos. 196 — To bestow liberal gifts upon the Hebrew bondman (at the end of his term of service)
+    Devarim 15:14
+    “thou shalt furnish him liberally out of thy flock, and out of thy threshing-floor, and out of
+    thy winepress; of that wherewith the LORD thy God hath blessed thee thou shalt give unto him.”
+
+Pos. 197 — To lend to a poor person
+    Shemot 22:24
+    “If thou lend money to any of My people, even to the poor with thee, thou shalt not be to him as
+    a creditor; neither shall ye lay upon him interest.”
+    Also cited: Devarim 15:8 (Hyamson)
+
+Pos. 198 — To lend to an alien at interest
+    Devarim 23:21
+    “Unto a foreigner thou mayest lend upon interest; but unto thy brother thou shalt not lend upon
+    interest; that the LORD thy God may bless thee in all that thou puttest thy hand unto, in the
+    land whither thou goest in to possess it.”
+
+Pos. 199 — To return a pledge to its owner
+    Devarim 24:13
+    “thou shalt surely restore to him the pledge when the sun goeth down, that he may sleep in his
+    garment, and bless thee; and it shall be righteousness unto thee before the LORD thy God.”
+
+Pos. 200 — To pay wages to the hired man at the due time
+    Devarim 24:15
+    “In the same day thou shalt give him his hire, neither shall the sun go down upon it; for he is
+    poor, and setteth his heart upon it: lest he cry against thee unto the LORD and it be sin in
+    thee.”
+
+Pos. 201 — That the hired labourer shall be permitted to eat (of the produce which he is reaping)
+    Devarim 23:25–26
+    “[25] When thou comest into thy neighbour’s vineyard, then thou mayest eat grapes until thou
+    have enough at thine own pleasure; but thou shalt not put any in thy vessel. [26] When thou
+    comest into thy neighbour’s standing corn, then thou mayest pluck ears with thy hand; but thou
+    shalt not move a sickle unto thy neighbour’s standing corn.”
+
+Pos. 202 — To relieve a neighbour of his burden and help to unload his beast
+    Shemot 23:5
+    “If thou see the ass of him that hateth thee lying under its burden, thou shalt forbear to pass
+    by him; thou shalt surely release it with him.”
+
+Pos. 203 — To assist in replacing the load upon a neighbour’s beast
+    Devarim 22:4
+    “Thou shalt not see thy brother’s ass or his ox fallen down by the way, and hide thyself from
+    them; thou shalt surely help him to lift them up again.”
+
+Pos. 204 — To restore lost property
+    Devarim 22:1
+    “Thou shalt not see thy brother’s ox or his sheep driven away, and hide thyself from them; thou
+    shalt surely bring them back unto thy brother.”
+
+Pos. 205 — To rebuke the sinner
+    Vayikra 19:17
+    “Thou shalt not hate thy brother in thy heart; thou shalt surely rebuke thy neighbour, and not
+    bear sin because of him.”
+
+Pos. 206 — To love all human beings, who are of the covenant
+    Vayikra 19:18
+    “Thou shalt not take vengeance, nor bear any grudge against the children of thy people, but thou
+    shalt love thy neighbour as thyself: I am the LORD.”
+
+Pos. 207 — To love the stranger
+    Devarim 10:19
+    “Love ye therefore the stranger; for ye were strangers in the land of Egypt.”
+
+Pos. 208 — To ensure that scales and weights are correct
+    Vayikra 19:36
+    “Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the LORD your
+    God, who brought you out of the land of Egypt.”
+
+Pos. 209 — To honour the wise
+    Vayikra 19:32
+    “Thou shalt rise up before the hoary head, and honour the face of the old man, and thou shalt
+    fear thy God: I am the LORD.”
+
+Pos. 210 — To honour father and mother
+    Shemot 20:12
+    “Honour thy father and thy mother, that thy days may be long upon the land which the LORD thy
+    God giveth thee.”
+
+Pos. 211 — To revere father and mother
+    Vayikra 19:3
+    “Ye shall fear every man his mother, and his father, and ye shall keep My sabbaths: I am the
+    LORD your God.”
+
+Pos. 212 — To propagate the human race
+    Bereshit 1:28
+    “And God blessed them; and God said unto them: ‘Be fruitful, and multiply, and replenish the
+    earth, and subdue it; and have dominion over the fish of the sea, and over the fowl of the air,
+    and over every living thing that creepeth upon the earth.’”
+
+Pos. 213 — To take a wife by the sacrament of marriage
+    Devarim 24:1
+    “When a man taketh a wife, and marrieth her, then it cometh to pass, if she find no favour in
+    his eyes, because he hath found some unseemly thing in her, that he writeth her a bill of
+    divorcement, and giveth it in her hand, and sendeth her out of his house,”
+
+Pos. 214 — That the newly married husband shall (be free) for one year to rejoice with his wife
+    Devarim 24:5
+    “When a man taketh a new wife, he shall not go out in the host, neither shall he be charged with
+    any business; he shall be free for his house one year, and shall cheer his wife whom he hath
+    taken.”
+
+Pos. 215 — To circumcise the male offspring
+    Vayikra 12:3
+    “And in the eighth day the flesh of his foreskin shall be circumcised.”
+
+Pos. 216 — To marry the widow of a brother who has died childless
+    Devarim 25:5
+    “If brethren dwell together, and one of them die, and have no child, the wife of the dead shall
+    not be married abroad unto one not of his kin; her husband’s brother shall go in unto her, and
+    take her to him to wife, and perform the duty of a husband’s brother unto her.”
+
+Pos. 217 — That the widow formally release the brother-in-law, (in case he refuses to marry her)
+    Devarim 25:8–9
+    “[8] Then the elders of his city shall call him, and speak unto him; and if he stand, and say:
+    ‘I like not to take her’; [9] then shall his brother’s wife draw nigh unto him in the presence
+    of the elders, and loose his shoe from off his foot, and spit in his face; and she shall answer
+    and say: ‘So shall it be done unto the man that doth not build up his brother’s house.’”
+
+Pos. 218 — That the violator (of an unbetrothed virgin) shall marry her
+    Devarim 22:28–29
+    “[28] If a man find a damsel that is a virgin, that is not betrothed, and lay hold on her, and
+    lie with her, and they be found; [29] then the man that lay with her shall give unto the
+    damsel’s father fifty shekels of silver, and she shall be his wife, because he hath humbled her;
+    he may not put her away all his days.”
+
+Pos. 219 — That one who defames his wife’s honour (by false charges of inchastity before marriage) must live with her all his lifetime
+    Devarim 22:19
+    “And they shall fine him a hundred shekels of silver, and give them unto the father of the
+    damsel, because he hath brought up an evil name upon a virgin of Israel; and she shall be his
+    wife; he may not put her away all his days.”
+
+Pos. 220 — To impose a penalty of fifty shekels upon the seducer (of an unbetrothed virgin) and enforce the other rules in connection with the case
+    Shemot 22:15–16
+    “[15] And if a man entice a virgin that is not betrothed, and lie with her, he shall surely pay
+    a dowry for her to be his wife. [16] If her father utterly refuse to give her unto him, he shall
+    pay money according to the dowry of virgins.”
+
+Pos. 221 — To deal with a beautiful woman taken captive in war, in the manner prescribed in the Torah
+    Devarim 21:10–14
+    “[10] When thou goest forth to battle against thine enemies, and the LORD thy God delivereth
+    them into thy hands, and thou carriest them away captive, […verses 11–14 continue; first verse
+    shown]”
+
+Pos. 222 — To divorce by a formal written document
+    Devarim 24:1
+    “When a man taketh a wife, and marrieth her, then it cometh to pass, if she find no favour in
+    his eyes, because he hath found some unseemly thing in her, that he writeth her a bill of
+    divorcement, and giveth it in her hand, and sendeth her out of his house,”
+
+Pos. 223 — That the woman suspected of adultery be dealt with as prescribed in the Torah
+    Bamidbar 5:30
+    “or when the spirit of jealousy cometh upon a man, and he be jealous over his wife; then shall
+    he set the woman before the LORD, and the priest shall execute upon her all this law.”
+
+Pos. 224 — To punish the wicked by the infliction of stripes
+    Devarim 25:2
+    “then it shall be, if the wicked man deserve to be beaten, that the judge shall cause him to lie
+    down, and to be beaten before his face, according to the measure of his wickedness, by number.”
+
+Pos. 225 — To exile one who committed accidental homicide
+    Bamidbar 35:25
+    “and the congregation shall deliver the manslayer out of the hand of the avenger of blood, and
+    the congregation shall restore him to his city of refuge, whither he was fled; and he shall
+    dwell therein until the death of the high priest, who was anointed with the holy oil.”
+
+Pos. 226 — That the Court shall pass sentence of death by decapitation with the sword
+    Shemot 21:20
+    “And if a man smite his bondman, or his bondwoman, with a rod, and he die under his hand, he
+    shall surely be punished.”
+
+Pos. 227 — That the Court shall pass sentence of death by strangulation
+    Vayikra 20:10
+    “And the man that committeth adultery with another man’s wife, even he that committeth adultery
+    with his neighbour’s wife, both the adulterer and the adulteress shall surely be put to death.”
+
+Pos. 228 — That the Court shall pass sentence of death by burning with fire
+    Vayikra 20:14
+    “And if a man take with his wife also her mother, it is wickedness: they shall be burnt with
+    fire, both he and they; that there be no wickedness among you.”
+
+Pos. 229 — That the Court shall pass sentence of death by stoning
+    Devarim 22:24
+    “then ye shall bring them both out unto the gate of that city, and ye shall stone them with
+    stones that they die: the damsel, because she cried not, being in the city; and the man, because
+    he hath humbled his neighbour’s wife; so thou shalt put away the evil from the midst of thee.”
+
+Pos. 230 — To hang the dead body of one who has incurred that penalty
+    Devarim 21:22
+    “And if a man have committed a sin worthy of death, and he be put to death, and thou hang him on
+    a tree;”
+
+Pos. 231 — To inter the executed on the day of execution
+    Devarim 21:23
+    “his body shall not remain all night upon the tree, but thou shalt surely bury him the same day;
+    for he that is hanged is a reproach unto God; that thou defile not thy land which the LORD thy
+    God giveth thee for an inheritance.”
+
+Pos. 232 — To deal judicially with the Hebrew bondman, in accordance with the laws appertaining to him
+    Shemot 21:2–6
+    “[2] If thou buy a Hebrew servant, six years he shall serve; and in the seventh he shall go out
+    free for nothing. […verses 3–6 continue; first verse shown]”
+
+Pos. 233 — To espouse a Hebrew maid-servant
+    Shemot 21:8–9
+    “[8] If she please not her master, who hath espoused her to himself, then shall he let her be
+    redeemed; to sell her unto a foreign people he shall have no power, seeing he hath dealt
+    deceitfully with her. [9] And if he espouse her unto his son, he shall deal with her after the
+    manner of daughters.”
+
+Pos. 234 — To redeem her
+    Shemot 21:8
+    “If she please not her master, who hath espoused her to himself, then shall he let her be
+    redeemed; to sell her unto a foreign people he shall have no power, seeing he hath dealt
+    deceitfully with her.”
+
+Pos. 235 — To keep the Canaanite slave forever
+    Vayikra 25:46
+    “And ye may make them an inheritance for your children after you, to hold for a possession: of
+    them may ye take your bondmen for ever; but over your brethren the children of Israel ye shall
+    not rule, one over another, with rigour.”
+
+Pos. 236 — That he who inflicts a bodily injury shall pay monetary compensation
+    Shemot 21:18–19
+    “[18] And if men contend, and one smite the other with a stone, or with his fist, and he die
+    not, but keep his bed; [19] if he rise again, and walk abroad upon his staff, then shall he that
+    smote him be quit; only he shall pay for the loss of his time, and shall cause him to be
+    thoroughly healed.”
+
+Pos. 237 — To judge cases of injuries caused by beasts
+    Shemot 21:35–36
+    “[35] And if one man’s ox hurt another’s, so that it dieth; then they shall sell the live ox,
+    and divide the price of it; and the dead also they shall divide. [36] Or if it be known that the
+    ox was wont to gore in time past, and its owner hath not kept it in; he shall surely pay ox for
+    ox, and the dead beast shall be his own.”
+
+Pos. 238 — To judge cases of damage caused by an uncovered pit
+    Shemot 21:33–34
+    “[33] And if a man shall open a pit, or if a man shall dig a pit and not cover it, and an ox or
+    an ass fall therein, [34] the owner of the pit shall make it good; he shall give money unto the
+    owner of them, and the dead beast shall be his.”
+
+Pos. 239 — To adjudge a thief to pay compensation, or (in certain cases) suffer death
+    Shemot 21:37
+    “If a man steal an ox, or a sheep, and kill it, or sell it, he shall pay five oxen for an ox,
+    and four sheep for a sheep.”
+    Also cited: Shemot 22:1 (Hyamson); Shemot 21:16 (Hyamson)
+
+Pos. 240 — To adjudicate cases of damage caused by trespass of cattle
+    Shemot 22:4
+    “If a man cause a field or vineyard to be eaten, and shall let his beast loose, and it feed in
+    another man’s field; of the best of his own field, and of the best of his own vineyard, shall he
+    make restitution.”
+
+Pos. 241 — To adjudicate cases of damage caused by fire
+    Shemot 22:5
+    “If fire break out, and catch in thorns, so that the shocks of corn, or the standing corn, or
+    the field are consumed; he that kindled the fire shall surely make restitution.”
+
+Pos. 242 — To adjudicate cases of damage by a gratuitous depositary
+    Shemot 22:6–7
+    “[6] If a man deliver unto his neighbour money or stuff to keep, and it be stolen out of the
+    man’s house; if the thief be found, he shall pay double. [7] If the thief be not found, then the
+    master of the house shall come near unto God, to see whether he have not put his hand unto his
+    neighbour’s goods.”
+
+Pos. 243 — To judge cases of liability of a paid depositary
+    Shemot 22:9
+    “If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep, and it
+    die, or be hurt, or driven away, no man seeing it;”
+
+Pos. 244 — To adjudicate cases of loss for which a gratuitous borrower is liable
+    Shemot 22:13–14
+    “[13] And if a man borrow aught of his neighbour, and it be hurt, or die, the owner thereof not
+    being with it, he shall surely make restitution. [14] If the owner thereof be with it, he shall
+    not make it good; if it be a hireling, he loseth his hire.”
+
+Pos. 245 — To adjudicate cases of purchase and sale
+    Vayikra 25:14
+    “And if thou sell aught unto thy neighbour, or buy of thy neighbour’s hand, ye shall not wrong
+    one another.”
+
+Pos. 246 — To adjudicate other cases between a plaintiff and a defendant
+    Shemot 22:8
+    “For every matter of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any
+    manner of lost thing, whereof one saith: ‘This is it, ‘the cause of both parties shall come
+    before God; he whom God shall condemn shall pay double unto his neighbour.”
+
+Pos. 247 — To save the pursued even at the cost of the life of the pursuer
+    Devarim 25:12
+    “then thou shalt cut off her hand, thine eye shall have no pity.”
+
+Pos. 248 — To adjudicate cases of inheritances
+    Bamidbar 27:8–11
+    “[8] And thou shalt speak unto the children of Israel, saying: If a man die, and have no son,
+    then ye shall cause his inheritance to pass unto his daughter. […verses 9–11 continue; first
+    verse shown]”
+
+
+======================================================================
+NEGATIVE COMMANDMENTS (Mitzvot Lo Ta’aseh) 1–365
+======================================================================
+
+Neg. 1 — The first of the negative precepts is not to entertain the idea that there is any god but the Eternal
+    Shemot 20:3
+    “Thou shalt have no other gods before Me.”
+
+Neg. 2 — Not to make a graven image; neither to make it oneself nor to have it made by others
+    Shemot 20:4
+    “Thou shalt not make unto thee a graven image, nor any manner of likeness, of any thing that is
+    in heaven above, or that is in the earth beneath, or that is in the water under the earth;”
+    Note: Hyamson’s printed title reads “oneself not to have it made”; “nor” is the evident meaning
+    and is restored.
+
+Neg. 3 — Not to make idols even for others
+    Shemot 34:17
+    “Thou shalt make thee no molten gods.”
+
+Neg. 4 — Not to make any figures for ornament, even if they are not worshipped
+    Shemot 20:23
+    “Ye shall not make with Me—gods of silver, or gods of gold, ye shall not make unto you.”
+
+Neg. 5 — Not to bow down to an idol, even if that be not its mode of worship
+    Shemot 20:5
+    “thou shalt not bow down unto them, nor serve them; for I the LORD thy God am a jealous God,
+    visiting the iniquity of the fathers upon the children unto the third and fourth generation of
+    them that hate Me;”
+
+Neg. 6 — Not to worship an idol in the way in which it is usually worshipped
+    Shemot 20:5
+    (JPS text as at Neg. 5)
+
+Neg. 7 — Not to pass (a child through the fire) to Molech
+    Vayikra 18:21
+    “And thou shalt not give any of thy seed to set them apart to Molech, neither shalt thou profane
+    the name of thy God: I am the LORD.”
+
+Neg. 8 — Not to consult ghosts
+    Vayikra 19:31
+    “Turn ye not unto the ghosts, nor unto familiar spirits; seek them not out, to be defiled by
+    them: I am the LORD your God.”
+
+Neg. 9 — Not to resort to familiar spirits
+    Vayikra 19:31
+    (JPS text as at Neg. 8)
+
+Neg. 10 — Not to turn to idolatry
+    Vayikra 19:4
+    “Turn ye not unto the idols, nor make to yourselves molten gods: I am the LORD your God.”
+
+Neg. 11 — Not to set up a pillar (for worship)
+    Devarim 16:22
+    “Neither shalt thou set thee up a pillar, which the LORD thy God hateth.”
+
+Neg. 12 — Not to lay down a figured stone for worship
+    Vayikra 26:1
+    “Ye shall make you no idols, neither shall ye rear you up a graven image, or a pillar, neither
+    shall ye place any figured stone in your land, to bow down unto it; for I am the LORD your God.”
+
+Neg. 13 — Not to plant a tree in the Sanctuary
+    Devarim 16:21
+    “Thou shalt not plant thee an Asherah of any kind of tree beside the altar of the LORD thy God,
+    which thou shalt make thee.”
+
+Neg. 14 — Not to swear by an idol, to its worshipers, nor cause them to swear by it
+    Shemot 23:13
+    “And in all things that I have said unto you take ye heed; and make no mention of the name of
+    other gods, neither let it be heard out of thy mouth.”
+
+Neg. 15 — Not to lead the children of Israel astray to idolatry
+    Shemot 23:13
+    (JPS text as at Neg. 14)
+
+Neg. 16 — Not to entice an Israelite to idolatry
+    Devarim 13:12
+    “And all Israel shall hear, and fear, and shall do no more any such wickedness as this is in the
+    midst of thee.”
+
+Neg. 17 — Not to love the enticer to idolatry
+    Devarim 13:9
+    “thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him,
+    neither shalt thou spare, neither shalt thou conceal him;”
+
+Neg. 18 — Not to give up hating the enticer
+    Devarim 13:9
+    (JPS text as at Neg. 17)
+
+Neg. 19 — Not to save the enticer from capital punishment, but to stand by at his execution
+    Devarim 13:9
+    (JPS text as at Neg. 17)
+
+Neg. 20 — A person whom he attempted to entice to idolatry shall not urge pleas for the acquittal of the enticer
+    Devarim 13:9
+    (JPS text as at Neg. 17)
+
+Neg. 21 — A person whom he attempted to entice shall not refrain from giving evidence of the enticer’s guilt, if he has such evidence
+    Devarim 13:9
+    (JPS text as at Neg. 17)
+
+Neg. 22 — Not to use the ornament (cover) of any object of idolatrous worship
+    Devarim 7:25
+    “The graven images of their gods shall ye burn with fire; thou shalt not covet the silver or the
+    gold that is on them, nor take it unto thee, lest thou be snared therein; for it is an
+    abomination to the LORD thy God.”
+
+Neg. 23 — Not to rebuild a city that has been led astray to idolatry
+    Devarim 13:17
+    “And thou shalt gather all the spoil of it into the midst of the broad place thereof, and shall
+    burn with fire the city, and all the spoil thereof every whit, unto the LORD thy God; and it
+    shall be a heap for ever; it shall not be built again.”
+
+Neg. 24 — Not to make use of the property of a city that has been so led astray
+    Devarim 13:18
+    “And there shall cleave nought of the devoted thing to thy hand, that the LORD may turn from the
+    fierceness of His anger, and show thee mercy, and have compassion upon thee, and multiply thee,
+    as He hath sworn unto thy fathers;”
+
+Neg. 25 — Not to make use of an idol, or its accessory objects, or its offerings, or its libations
+    Devarim 7:26
+    “And thou shalt not bring an abomination into thy house, and be accursed like unto it; thou
+    shalt utterly detest it, and thou shalt utterly abhor it; for it is a devoted thing.”
+
+Neg. 26 — Not to prophesy in its name
+    Devarim 18:20
+    “But the prophet, that shall speak a word presumptuously in My name, which I have not commanded
+    him to speak, or that shall speak in the name of other gods, that same prophet shall die.’”
+
+Neg. 27 — Not to prophesy falsely
+    Devarim 18:20
+    (JPS text as at Neg. 26)
+
+Neg. 28 — Not to hearken to one who prophesies in the name of an idol
+    Devarim 13:4
+    “thou shalt not hearken unto the words of that prophet, or unto that dreamer of dreams; for the
+    LORD your God putteth you to proof, to know whether ye do love the LORD your God with all your
+    heart and with all your soul.”
+
+Neg. 29 — Not to refrain from putting a false prophet to death, nor be in fear of him
+    Devarim 18:22
+    “When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass,
+    that is the thing which the LORD hath not spoken; the prophet hath spoken it presumptuously,
+    thou shalt not be afraid of him.”
+
+Neg. 30 — Not to adopt the institutions of idolaters nor their customs
+    Vayikra 20:23
+    “And ye shall not walk in the customs of the nation, which I am casting out before you; for they
+    did all these things, and therefore I abhorred them.”
+
+Neg. 31 — Not to practice divination
+    Devarim 18:10
+    “There shall not be found among you any one that maketh his son or his daughter to pass through
+    the fire, one that useth divination, a soothsayer, or an enchanter, or a sorcerer,”
+
+Neg. 32 — Not to observe times (as favourable or the reverse)
+    Vayikra 19:26
+    “Ye shall not eat with the blood; neither shall ye practise divination nor soothsaying.”
+
+Neg. 33 — Not to practise enchantments
+    Vayikra 19:26
+    (JPS text as at Neg. 32)
+
+Neg. 34 — Not to practise witchcraft
+    Devarim 18:10
+    “There shall not be found among you any one that maketh his son or his daughter to pass through
+    the fire, one that useth divination, a soothsayer, or an enchanter, or a sorcerer,”
+
+Neg. 35 — Not to practise the art of the charmer
+    Devarim 18:11
+    “or a charmer, or one that consulteth a ghost or a familiar spirit, or a necromancer.”
+
+Neg. 36 — Not to consult ghosts
+    Devarim 18:11
+    (JPS text as at Neg. 35)
+
+Neg. 37 — Not to consult a familar spirit
+    Devarim 18:11
+    (JPS text as at Neg. 35)
+
+Neg. 38 — Not to enquire of the dead in a dream (necromancy)
+    Devarim 18:11
+    (JPS text as at Neg. 35)
+
+Neg. 39 — That a woman shall not wear the attire of a man
+    Devarim 22:5
+    “A woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s
+    garment; for whosoever doeth these things is an abomination unto the LORD thy God.”
+
+Neg. 40 — That a man shall not wear the attire of a woman
+    Devarim 22:5
+    (JPS text as at Neg. 39)
+
+Neg. 41 — Not to tatoo the body, like the idolaters
+    Vayikra 19:28
+    “Ye shall not make any cuttings in your flesh for the dead, nor imprint any marks upon you: I am
+    the LORD.”
+
+Neg. 42 — Not to wear garments made of wool and linen, such as the idolatrous priests wear
+    Devarim 22:11
+    “Thou shalt not wear a mingled stuff, wool and linen together.”
+
+Neg. 43 — Not to round the corners of the head, as the idolatrous priests do
+    Vayikra 19:27
+    “Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.”
+
+Neg. 44 — Not to remove the entire beard, like the idolaters
+    Vayikra 19:27
+    (JPS text as at Neg. 43)
+
+Neg. 45 — Not to cut oneself, like the idolaters
+    Devarim 14:1
+    “Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness
+    between your eyes for the dead.”
+    Also cited: Vayikra 19:28 (Hyamson)
+
+Neg. 46 — Never to settle in the land of Egypt
+    Devarim 17:16
+    “Only he shall not multiply horses to himself, nor cause the people to return to Egypt, to the
+    end that he should multiply horses; forasmuch as the LORD hath said unto you: ‘Ye shall
+    henceforth return no more that way.’”
+
+Neg. 47 — Not to indulge in wayward thoughts and wanton sights
+    Bamidbar 15:39
+    “And it shall be unto you for a fringe, that ye may look upon it, and remember all the
+    commandments of the LORD, and do them; and that ye go not about after your own heart and your
+    own eyes, after which ye use to go astray;”
+
+Neg. 48 — Not to make a covenant with the seven (Canaanite, idolatrous) nations
+    Shemot 23:32
+    “Thou shalt make no covenant with them, nor with their gods.”
+    Also cited: Devarim 7:2 (Hyamson)
+
+Neg. 49 — Not to keep alive any individual of these seven nations
+    Devarim 20:16
+    “Howbeit of the cities of these peoples, that the LORD thy God giveth thee for an inheritance,
+    thou shalt save alive nothing that breatheth,”
+
+Neg. 50 — Not to show favour to idolaters
+    Devarim 7:2
+    “and when the LORD thy God shall deliver them up before thee, and thou shalt smite them; then
+    thou shalt utterly destroy them; thou shalt make no covenant with them, nor show mercy unto
+    them;”
+
+Neg. 51 — Not to settle idolaters in our land
+    Shemot 23:33
+    “They shall not dwell in thy land—lest they make thee sin against Me, for thou wilt serve their
+    gods—for they will be a snare unto thee.”
+
+Neg. 52 — Not to intermarry with idolaters
+    Devarim 7:3
+    “neither shalt thou make marriages with them: thy daughter thou shalt not give unto his son, nor
+    his daughter shalt thou take unto thy son.”
+
+Neg. 53 — That an Ammonite or Moabite shall never marry the daughter of an Israelite
+    Devarim 23:4
+    “An Ammonite or a Moabite shall not enter into the assembly of the LORD; even to the tenth
+    generation shall none of them enter into the assembly of the LORD for ever;”
+
+Neg. 54 — Not to exclude a descendant of Esau from the community of Israel for three generations
+    Devarim 23:8–9
+    “[8] Thou shalt not abhor an Edomite, for he is thy brother; thou shalt not abhor an Egyptian,
+    because thou wast a stranger in his land. [9] The children of the third generation that are born
+    unto them may enter into the assembly of the LORD.”
+
+Neg. 55 — Not to exclude an Egyptian from the community of Israel for three generations
+    Devarim 23:8–9
+    (JPS text as at Neg. 54)
+
+Neg. 56 — Not to offer peace to the Ammonites and Moabites before waging war on them, as should be done to other nations
+    Devarim 23:7
+    “Thou shalt not seek their peace nor their prosperity all thy days for ever.”
+
+Neg. 57 — Not to destroy fruit-trees (wantonly or in warfare), nor may anything else be (wantonly) destroyed
+    Devarim 20:19–20
+    “[19] When thou shalt besiege a city a long time, in making war against it to take it, thou
+    shalt not destroy the trees thereof by wielding an axe against them; for thou mayest eat of
+    them, but thou shalt not cut them down; for is the tree of the field man, that it should be
+    besieged of thee? [20] Only the trees of which thou knowest that they are not trees for food,
+    them thou mayest destroy and cut down, that thou mayest build bulwarks against the city that
+    maketh war with thee, until it fall.”
+
+Neg. 58 — That those engaged in warfare shall not fear their enemies nor be panic-stricken by them during the battle
+    Devarim 3:22
+    “Ye shall not fear them; for the LORD your God, He it is that fighteth for you.’”
+    Also cited: Devarim 7:21 (Hyamson); Devarim 20:3 (Hyamson)
+
+Neg. 59 — That the evil done to us by Amalek shall not depart from our minds
+    Devarim 25:19
+    “Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round
+    about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that
+    thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget.”
+
+Neg. 60 — (We are charged) not to blaspheme
+    Shemot 22:27
+    “Thou shalt not revile God, nor curse a ruler of thy people.”
+    Also cited: Vayikra 24:16 (Hyamson)
+
+Neg. 61 — Not to violate an oath (even when it only accompanies the statement of what one intends to do)
+    Vayikra 19:12
+    “And ye shall not swear by My name falsely, so that thou profane the name of thy God: I am the
+    LORD.”
+
+Neg. 62 — Not to swear needlessly
+    Shemot 20:7
+    “Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him
+    guiltless that taketh His name in vain.”
+
+Neg. 63 — Not to profane the name of the Holy One, blessed be He
+    Vayikra 22:32
+    “And ye shall not profane My holy name; but I will be hallowed among the children of Israel: I
+    am the LORD who hallow you,”
+
+Neg. 64 — Not to put the word of God to the test
+    Devarim 6:16
+    “Ye shall not try the LORD your God, as ye tried Him in Massah.”
+
+Neg. 65 — Not to destroy aught of the Sanctuary, of synagogues, or of houses of study, nor erase the holy names (of God); nor may sacred scriptures be destroyed
+    Devarim 12:2–4
+    “[2] Ye shall surely destroy all the places, wherein the nations that ye are to dispossess
+    served their gods, upon the high mountains, and upon the hills, and under every leafy tree.
+    […verses 3–4 continue; first verse shown]”
+
+Neg. 66 — That the dead body of an executed criminal shall not remain hanging on the tree over night
+    Devarim 21:23
+    “his body shall not remain all night upon the tree, but thou shalt surely bury him the same day;
+    for he that is hanged is a reproach unto God; that thou defile not thy land which the LORD thy
+    God giveth thee for an inheritance.”
+
+Neg. 67 — Not to allow the Sanctuary to remain unwatched
+    Bamidbar 18:5
+    “And ye shall keep the charge of the holy things, and the charge of the altar, that there be
+    wrath no more upon the children of Israel.”
+
+Neg. 68 — That the priest shall not enter the Sanctuary at all times
+    Vayikra 16:2
+    “and the LORD said unto Moses: ‘Speak unto Aaron thy brother, that he come not at all times into
+    the holy place within the veil, before the ark-cover which is upon the ark; that he die not; for
+    I appear in the cloud upon the ark-cover.”
+
+Neg. 69 — That a person with a physical blemish shall not enter the Sanctuary further than the altar
+    Vayikra 21:23
+    “Only he shall not go in unto the veil, nor come nigh unto the altar, because he hath a blemish;
+    that he profane not My holy places; for I am the LORD who sanctify them.”
+
+Neg. 70 — That a person with a physical blemish shall not serve (in the Sanctuary)
+    Vayikra 21:17
+    “Speak unto Aaron, saying: Whosoever he be of thy seed throughout their generations that hath a
+    blemish, let him not approach to offer the bread of his God.”
+
+Neg. 71 — That a priest, with a temporary blemish, shall not serve there
+    Vayikra 21:21
+    “no man of the seed of Aaron the priest, that hath a blemish, shall come nigh to offer the
+    offerings of the LORD made by fire; he hath a blemish; he shall not come nigh to offer the bread
+    of his God.”
+
+Neg. 72 — That the Levites shall not occupy themselves with the service that belongs to the priests, nor the priests, with that belonging to the Levites
+    Bamidbar 18:3
+    “And they shall keep thy charge, and the charge of all the Tent; only they shall not come nigh
+    unto the holy furniture and unto the altar, that they die not, neither they, nor ye.”
+
+Neg. 73 — That an intoxicated person shall not enter the Sanctuary, nor give decisions in matters of the Law
+    Vayikra 10:9–11
+    “[9] ‘Drink no wine nor strong drink, thou, nor thy sons with thee, when ye go into the tent of
+    meeting, that ye die not; it shall be a statute forever throughout your generations. […verses
+    10–11 continue; first verse shown]”
+
+Neg. 74 — That one, not a descendant of Aaron in the male line, shall not serve (in the Sanctuary)
+    Bamidbar 18:4–7
+    “[4] And they shall be joined unto thee, and keep the charge of the tent of meeting, whatsoever
+    the service of the Tent may be; but a common man shall not draw nigh unto you. […verses 5–7
+    continue; first verse shown]”
+
+Neg. 75 — That a priest who is unclean shall not serve (in the Sanctuary)
+    Vayikra 22:2–3
+    “[2] Speak unto Aaron and to his sons, that they separate themselves from the holy things of the
+    children of Israel, which they hallow unto Me, and that they profane not My holy name: I am the
+    LORD. [3] Say unto them: Whosoever he be of all your seed throughout your generations, that
+    approacheth unto the holy things, which the children of Israel hallow unto the LORD, having his
+    uncleanness upon him, that soul shall be cut off from before Me: I am the LORD.”
+
+Neg. 76 — That a priest who had had an immersion during the day (to cleanse him from his uncleanness) shall not serve in the Sanctuary till after sunset
+    Vayikra 21:6
+    “They shall be holy unto their God, and not profane the name of their God; for the offerings of
+    the LORD made by fire, the bread of their God, they do offer; therefore they shall be holy.”
+    Also cited: Vayikra 22:2 (Young); Vayikra 22:7 (Glazer)
+    Note: The three sources cite different verses (Hyamson Lev. 21:6; Young Lev. 22:2; Glazer Lev.
+    22:7).
+
+Neg. 77 — That a priest who is unclean shall not enter the courtyard (of the Sanctuary)
+    Bamidbar 5:2–3
+    “[2] ‘Command the children of Israel, that they put out of the camp every leper, and every one
+    that hath an issue, and whosoever is unclean by the dead; [3] both male and female shall ye put
+    out, without the camp shall ye put them; that they defile not their camp, in the midst whereof I
+    dwell.’”
+
+Neg. 78 — That anyone who is unclean shall not enter the Camp of the Levites, and corresponding to it, in subsequent generations was the Temple mount
+    Devarim 23:11
+    “If there be among you any man, that is not clean by reason of that which chanceth him by night,
+    then shall he go abroad out of the camp, he shall not come within the camp.”
+
+Neg. 79 — Not to build an altar of hewn stone
+    Shemot 20:25
+    “And if thou make Me an altar of stone, thou shalt not build it of hewn stones; for if thou lift
+    up thy tool upon it, thou hast profaned it.”
+
+Neg. 80 — Not to mount the altar by steps
+    Shemot 20:26
+    “Neither shalt thou go up by steps unto Mine altar, that thy nakedness be not uncovered
+    thereon.”
+
+Neg. 81 — Not to extinguish the fire on the altar
+    Vayikra 6:6
+    “Fire shall be kept burning upon the altar continually; it shall not go out.”
+
+Neg. 82 — Not to offer (strange) incense nor any sacrifice upon the golden altar
+    Shemot 30:9
+    “Ye shall offer no strange incense thereon, nor burnt-offering, nor meal-offering; and ye shall
+    pour no drink-offering thereon.”
+
+Neg. 83 — Not to compound oil (for lay use) after the formula of the anointing oil
+    Shemot 30:32
+    “Upon the flesh of man shall it not be poured, neither shall ye make any like it, according to
+    the composition thereof; it is holy, and it shall be holy unto you.”
+    Also cited: Shemot 30:23–24 (Hyamson)
+
+Neg. 84 — Not to anoint a stranger with the anointing oil
+    Shemot 30:32
+    (JPS text as at Neg. 83)
+
+Neg. 85 — Not to compound aught after the formula of the incense
+    Shemot 30:37
+    “And the incense which thou shalt make, according to the composition thereof ye shall not make
+    for yourselves; it shall be unto thee holy for the LORD.”
+
+Neg. 86 — Not to remove the staves from the Ark
+    Shemot 25:15
+    “The staves shall be in the rings of the ark; they shall not be taken from it.”
+
+Neg. 87 — That the breastplate shall not be loosened from the ephod
+    Shemot 28:28
+    “And they shall bind the breastplate by the rings thereof unto the rings of the ephod with a
+    thread of blue, that it may be upon the skilfully woven band of the ephod, and that the
+    breastplate be not loosed from the ephod.”
+
+Neg. 88 — Not to tear the High Priest’s robe
+    Shemot 28:32
+    “And it shall have a hole for the head in the midst thereof; it shall have a binding of woven
+    work round about the hole of it, as it were the hole of a coat of mail that it be not rent.”
+
+Neg. 89 — Not to offer up sacrifices outside (the Sanctuary)
+    Devarim 12:13
+    “Take heed to thyself that thou offer not thy burnt-offerings in every place that thou seest;”
+
+Neg. 90 — Not to slaughter beasts set apart for sacrifices outside (the Sanctuary)
+    Vayikra 17:3–4
+    “[3] What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in
+    the camp, or that killeth it without the camp, [4] and hath not brought it unto the door of the
+    tent of meeting, to present it as an offering unto the LORD before the tabernacle of the LORD,
+    blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from
+    among his people.”
+
+Neg. 91 — Not to sanctify blemished cattle for sacrifice on the altar
+    Vayikra 22:20
+    “But whatsoever hath a blemish, that shall ye not bring; for it shall not be acceptable for
+    you.”
+
+Neg. 92 — Not to slaughter blemished cattle as sacrifices
+    Vayikra 22:22
+    “Blind, or broken, or maimed, or having a wen, or scabbed, or scurvy, ye shall not offer these
+    unto the LORD, nor make an offering by fire of them upon the altar unto the LORD.”
+
+Neg. 93 — Not to sprinkle the blood of blemished cattle upon the altar
+    Vayikra 22:24
+    “That which hath its stones bruised, or crushed, or torn, or cut, ye shall not offer unto the
+    LORD; neither shall ye do thus in your land.”
+
+Neg. 94 — Not to burn the limbs of blemished cattle upon the altar
+    Vayikra 22:22
+    “Blind, or broken, or maimed, or having a wen, or scabbed, or scurvy, ye shall not offer these
+    unto the LORD, nor make an offering by fire of them upon the altar unto the LORD.”
+
+Neg. 95 — Not to offer up a beast that has a temporary blemish
+    Devarim 17:1
+    “Thou shalt not sacrifice unto the LORD thy God an ox, or a sheep, wherein is a blemish, even
+    any evil thing; for that is an abomination unto the LORD thy God.”
+
+Neg. 96 — Not to offer up a blemished beast that comes from non-Israelites
+    Vayikra 22:25
+    “Neither from the hand of a foreigner shall ye offer the bread of your God of any of these,
+    because their corruption is in them, there is a blemish in them; they shall not be accepted for
+    you.”
+
+Neg. 97 — Not to inflict a blemish on cattle set apart for sacrifice
+    Vayikra 22:21
+    “And whosoever bringeth a sacrifice of peace-offerings unto the LORD in fulfilment of a vow
+    clearly uttered, or for a freewill-offering, of the herd or of the flock, it shall be perfect to
+    be accepted; there shall be no blemish therein.”
+
+Neg. 98 — Not to offer up leaven or honey
+    Vayikra 2:11
+    “No meal-offering, which ye shall bring unto the LORD, shall be made with leaven; for ye shall
+    make no leaven, nor any honey, smoke as an offering made by fire unto the LORD.”
+
+Neg. 99 — Not to offer up any offering unsalted
+    Vayikra 2:13
+    “And every meal-offering of thine shalt thou season with salt; neither shalt thou suffer the
+    salt of the covenant of thy God to be lacking from thy meal-offering; with all thy offerings
+    thou shalt offer salt.”
+
+Neg. 100 — Not to bring sacrifices out of the hire of a harlot, or price of a dog
+    Devarim 23:19
+    “Thou shalt not bring the hire of a harlot, or the price of a dog, into the house of the LORD
+    thy God for any vow; for even both these are an abomination unto the LORD thy God.”
+
+Neg. 101 — Not to slaughter an animal and its young on the same day
+    Vayikra 22:28
+    “And whether it be cow or ewe, ye shall not kill it and its young both in one day.”
+
+Neg. 102 — Not to put olive oil in a sin-offering made of flour
+    Vayikra 5:11
+    “But if his means suffice not for two turtledoves, or two young pigeons, then he shall bring his
+    offering for that wherein he hath sinned, the tenth part of an ephah of fine flour for a sin-
+    offering; he shall put no oil upon it, neither shall he put any frankincense thereon; for it is
+    a sin-offering.”
+
+Neg. 103 — Not to put frankincense on it
+    Vayikra 5:11
+    (JPS text as at Neg. 102)
+
+Neg. 104 — Not to put olive oil in the meal-offering of a woman suspected of adultery
+    Bamidbar 5:15
+    “then shall the man bring his wife unto the priest, and shall bring her offering for her, the
+    tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense
+    thereon; for it is a meal-offering of jealousy, a meal-offering of memorial, bringing iniquity
+    to remembrance.”
+
+Neg. 105 — Not to put frankincense on it
+    Bamidbar 5:15
+    (JPS text as at Neg. 104)
+
+Neg. 106 — Not to exchange a beast set aside for sacrifice
+    Vayikra 27:10
+    “He shall not alter it, nor change it, a good for a bad, or a bad for a good; and if he shall at
+    all change beast for beast, then both it and that for which it is changed shall be holy.”
+
+Neg. 107 — Not to transfer a beast set apart for sacrifice from one class of sacrifices to another
+    Vayikra 27:26
+    “Howbeit the firstling among beasts, which is born as a firstling to the LORD, no man shall
+    sanctify it; whether it be ox or sheep, it is the LORD’S.”
+
+Neg. 108 — Not to redeem the firstling of a clean beast
+    Bamidbar 18:17
+    “But the firstling of an ox, or the firstling of a sheep, or the firstling of a goat, thou shalt
+    not redeem; they are holy: thou shalt dash their blood against the altar, and shalt make their
+    fat smoke for an offering made by fire, for a sweet savour unto the LORD.”
+
+Neg. 109 — Not to sell the tithe of the herd
+    Vayikra 27:32–33
+    “[32] And all the tithe of the herd or the flock, whatsoever passeth under the rod, the tenth
+    shall be holy unto the LORD. [33] He shall not inquire whether it be good or bad, neither shall
+    he change it; and if he change it at all, then both it and that for which it is changed shall be
+    holy; it shall not be redeemed.”
+
+Neg. 110 — Not to sell a field devoted to the Lord
+    Vayikra 27:28
+    “Notwithstanding, no devoted thing, that a man may devote unto the LORD of all that he hath,
+    whether of man or beast, or of the field of his possession, shall be sold or redeemed; every
+    devoted thing is most holy unto the LORD.”
+
+Neg. 111 — Not to redeem a field devoted to the Lord
+    Vayikra 27:28
+    (JPS text as at Neg. 110)
+
+Neg. 112 — Not to sever completely the head of a fowl, brought as a sin-offering
+    Vayikra 5:8
+    “And he shall bring them unto the priest, who shall offer that which is for the sin-offering
+    first, and pinch off its head close by its neck, but shall not divide it asunder.”
+
+Neg. 113 — Not to do work with cattle set apart for sacrifice
+    Devarim 15:19
+    “All the firstling males that are born of thy herd and of thy flock thou shalt sanctify unto the
+    LORD thy God; thou shalt do no work with the firstling of thine ox, nor shear the firstling of
+    thy flock.”
+
+Neg. 114 — Not to shear beasts set apart for sacrifice
+    Devarim 15:19
+    (JPS text as at Neg. 113)
+
+Neg. 115 — Not to slaughter the Paschal lamb while there is leaven in the home
+    Shemot 23:18
+    “Thou shalt not offer the blood of My sacrifice with leavened bread; neither shall the fat of My
+    feast remain all night until the morning.”
+    Also cited: Shemot 34:25 (Hyamson)
+
+Neg. 116 — Not to leave the part of the Paschal lamb that should be burnt on the altar, till the morning, when it will be no longer fit to be burnt
+    Shemot 23:18
+    (JPS text as at Neg. 115)
+    Also cited: Shemot 34:25 (Hyamson)
+
+Neg. 117 — Not to leave any portion of the flesh of the Paschal sacrifice till the morning unconsumed
+    Shemot 12:10
+    “And ye shall let nothing of it remain until the morning; but that which remaineth of it until
+    the morning ye shall burn with fire.”
+
+Neg. 118 — Not to leave any portion of the festival offering, brought on the fourteenth day of Nissan, unto the third day
+    Devarim 16:4
+    “And there shall be no leaven seen with thee in all they borders seven days; neither shall any
+    of the flesh, which thou sacrificest the first day at even, remain all night until the morning.”
+
+Neg. 119 — Not to leave any flesh of the Paschal lamb, brought on the second Passover, until the morning
+    Bamidbar 9:12
+    “they shall leave none of it unto the morning, nor break a bone thereof; according to all the
+    statute of the passover they shall keep it.”
+
+Neg. 120 — Not to leave any flesh of the thanksgiving offering until the morning
+    Vayikra 22:30
+    “On the same day it shall be eaten; ye shall leave none of it until the morning: I am the LORD.”
+
+Neg. 121 — Not to break a bone of the Pachal lamb
+    Shemot 12:46
+    “In one house shall it be eaten; thou shalt not carry forth aught of the flesh abroad out of the
+    house; neither shall ye break a bone thereof.”
+
+Neg. 122 — Not to break a bone of the Paschal lamb brought on the second Passover
+    Bamidbar 9:12
+    “they shall leave none of it unto the morning, nor break a bone thereof; according to all the
+    statute of the passover they shall keep it.”
+
+Neg. 123 — Not to take any of the flesh of the Paschal lamb from the company’s place of assembly
+    Shemot 12:46
+    “In one house shall it be eaten; thou shalt not carry forth aught of the flesh abroad out of the
+    house; neither shall ye break a bone thereof.”
+
+Neg. 124 — Not to allow the remainder of the meal-offerings (eaten by the priests) to become leavened
+    Vayikra 6:10
+    “It shall not be baked with leaven. I have given it as their portion of My offerings made by
+    fire; it is most holy, as the sin-offering, and as the guilt-offering.”
+
+Neg. 125 — Not to eat the flesh of the Paschal lamb, raw or sodden
+    Shemot 12:9
+    “Eat not of it raw, nor sodden at all with water, but roast with fire; its head with its legs
+    and with the inwards thereof.”
+
+Neg. 126 — Not to give flesh of the Paschal lamb to a denizen
+    Shemot 12:45
+    “A sojourner and a hired servant shall not eat thereof.”
+
+Neg. 127 — That the uncircumcised shall not eat of the flesh of the Paschal lamb
+    Shemot 12:48
+    “And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all
+    his males be circumcised, and then let him come near and keep it; and he shall be as one that is
+    born in the land; but no uncircumcised person shall eat thereof.”
+
+Neg. 128 — Not to give of the flesh of the Paschal lamb to an Israelite who had become an apostate
+    Shemot 12:43
+    “And the LORD said unto Moses and Aaron: ‘This is the ordinance of the passover: there shall no
+    alien eat thereof;”
+
+Neg. 129 — That a person who is unclean shall not eat of things that are holy
+    Vayikra 7:20
+    “But the soul that eateth of the flesh of the sacrifice of peace-offerings, that pertain unto
+    the LORD, having his uncleanness upon him, that soul shall be cut off from his people.”
+
+Neg. 130 — Not to eat of holy things that have become unclean
+    Vayikra 7:19
+    “And the flesh that toucheth any unclean thing shall not be eaten; it shall be burnt with fire.
+    And as for the flesh, every one that is clean may eat thereof.”
+
+Neg. 131 — Not to eat flesh of a sacrifice that has been left over (beyond the time appointed for its consumption)
+    Vayikra 19:8
+    “But every one that eateth it shall bear his iniquity, because he hath profaned the holy thing
+    of the LORD; and that soul shall be cut off from his people.”
+
+Neg. 132 — Not to eat of sacrifices that are abhorrent (because it was intended to be eaten beyond the appointed time)
+    Vayikra 7:18
+    “And if any of the flesh of the sacrifice of his peace-offerings be at all eaten on the third
+    day, it shall not be accepted, neither shall it be imputed unto him that offereth it; it shall
+    be an abhorred thing, and the soul that eateth of it shall bear his iniquity.”
+
+Neg. 133 — That a stranger (one who is not a priest, nor the wife of a priest, nor his unmarried daughter) shall not eat of the heave-offering
+    Vayikra 22:10
+    “There shall no common man eat of the holy thing; a tenant of a priest, or a hired servant,
+    shall not eat of the holy thing.”
+
+Neg. 134 — That even a sojourner with a priest (Hebrew bondman released in the Jubilee year), or his hired servant (Hebrew bondman released after six years of service) shall not eat of the heave-offering
+    Vayikra 22:10
+    (JPS text as at Neg. 133)
+
+Neg. 135 — That an uncircumcised person shall not eat of the heave-offering; and the same applies to other holy things
+    Shemot 12:44–45
+    “[44] but every man’s servant that is bought for money, when thou hast circumcised him, then
+    shall he eat thereof. [45] A sojourner and a hired servant shall not eat thereof.”
+    Also cited: Vayikra 22:10 (Hyamson)
+
+Neg. 136 — That a priest who is unclean shall not eat of the heave-offering
+    Vayikra 22:3–4
+    “[3] Say unto them: Whosoever he be of all your seed throughout your generations, that
+    approacheth unto the holy things, which the children of Israel hallow unto the LORD, having his
+    uncleanness upon him, that soul shall be cut off from before Me: I am the LORD. [4] What man
+    soever of the seed of Aaron is a leper, or hath an issue, he shall not eat of the holy things,
+    until he be clean. And whoso toucheth any one that is unclean by the dead; or from whomsoever
+    the flow of seed goeth out;”
+
+Neg. 137 — A priest’s daughter who profaned herself shall not eat of holy things, neither of the heave-offering, nor of the breast, nor of the shoulder (of peace-offerings)
+    Vayikra 22:12
+    “And if a priest’s daughter be married unto a common man, she shall not eat of that which is set
+    apart from the holy things.”
+    Also cited: Vayikra 10:14 (Hyamson)
+
+Neg. 138 — Not to eat of the meal-offering brought by the priests
+    Vayikra 6:16
+    “And every meal-offering of the priest shall be wholly made to smoke; it shall not be eaten.”
+
+Neg. 139 — Not to eat of the flesh of sin-offerings, the blood of which is brought within the Sanctuary and sprinkled towards the Veil
+    Vayikra 6:23
+    “And no sin-offering, whereof any of the blood is brought into the tent of meeting to make
+    atonement in the holy place, shall be eaten; it shall be burnt with fire.”
+
+Neg. 140 — Not to eat the flesh of beasts set apart as sacrifices, that have been rendered unfit to be offered up by deliberately inflicted blemish
+    Devarim 14:3
+    “Thou shalt not eat any abominable thing.”
+
+Neg. 141 — Not to eat the second tithe of cereals outside Jerusalem
+    Devarim 12:17
+    “Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thine oil, or
+    the firstlings of thy herd or of thy flock, nor any of thy vows which thou vowest, nor thy
+    freewill-offerings, nor the offering of thy hand;”
+
+Neg. 142 — Not to consume the second tithe of the vintage outside Jerusalem
+    Devarim 12:17
+    (JPS text as at Neg. 141)
+
+Neg. 143 — Not to consume the second tithe of the oil outside Jerusalem
+    Devarim 12:17
+    (JPS text as at Neg. 141)
+
+Neg. 144 — Not to eat of the unblemished firstling outside Jerusalem
+    Devarim 12:17
+    (JPS text as at Neg. 141)
+
+Neg. 145 — That the priests shall not eat the flesh of the sin-offering or trespass-offering outside the Courtyard (of the Sanctuary)
+    Devarim 12:17
+    (JPS text as at Neg. 141)
+
+Neg. 146 — Not to eat the flesh of the burnt-offering
+    Devarim 12:17
+    (JPS text as at Neg. 141)
+
+Neg. 147 — Not to eat of the flesh of the sacrifices that are holy in a minor degree, before the blood has been sprinkled (on the altar)
+    Devarim 12:17
+    (JPS text as at Neg. 141)
+
+Neg. 148 — That one not of the seed of Aaron, shall not eat the flesh of the holy sacrifices
+    Shemot 29:33
+    “And they shall eat those things wherewith atonement was made, to consecrate and to sanctify
+    them; but a stranger shall not eat thereof, because they are holy.”
+
+Neg. 149 — That the priest shall not eat the first-fruits before they are set down in the Courtyard (of the Sanctuary)
+    Devarim 12:17
+    “Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thine oil, or
+    the firstlings of thy herd or of thy flock, nor any of thy vows which thou vowest, nor thy
+    freewill-offerings, nor the offering of thy hand;”
+
+Neg. 150 — Not to eat the Second Tithe, even in Jerusalem, in a state of uncleanness, until the tithe had been redeemed
+    Devarim 26:14
+    “I have not eaten thereof in my mourning, neither have I put away thereof, being unclean, nor
+    given thereof for the dead; I have hearkened to the voice of the LORD my God, I have done
+    according to all that Thou hast commanded me.”
+
+Neg. 151 — Not to eat the Second Tithe, when mourning
+    Devarim 26:14
+    (JPS text as at Neg. 150)
+
+Neg. 152 — Not to expend the proceeds of the second tithe on anything but food and drink
+    Devarim 26:14
+    (JPS text as at Neg. 150)
+
+Neg. 153 — Not to eat Tevel
+    Vayikra 22:15
+    “And they shall not profane the holy things of the children of Israel, which they set apart unto
+    the LORD;”
+
+Neg. 154 — Not to separate from the produce the heave-offerings (given to the priest), before the first-fruits, nor the first tithe before the heave-offering, nor the second tithe before the first tithe (Levites’ dues); but the separation should proceed in the due order; first-fruits at the beginning, then the great heave-offering, then the first tithe, and last the second tithe
+    Shemot 22:28
+    “Thou shalt not delay to offer of the fulness of thy harvest, and of the outflow of thy presses.
+    The first-born of thy sons shalt thou give unto Me.”
+
+Neg. 155 — Not to delay bringing vowed or free-will offerings
+    Devarim 23:22
+    “When thou shalt vow a vow unto the LORD thy God, thou shalt not be slack to pay it; for the
+    LORD thy God will surely require it of thee; and it will be sin in thee.”
+
+Neg. 156 — Not to go up to the Sanctuary for the festival without bringing an offering
+    Shemot 23:15
+    “The feast of unleavened bread shalt thou keep; seven days thou shalt eat unleavened bread, as I
+    commanded thee, at the time appointed in the month Abib—for in it thou camest out from Egypt;
+    and none shall appear before Me empty;”
+
+Neg. 157 — Not to transgress in matters wherein one has assumed an obligation
+    Bamidbar 30:3
+    “When a man voweth a vow unto the LORD, or sweareth an oath to bind his soul with a bond, he
+    shall not break his word; he shall do according to all that proceedeth out of his mouth.”
+
+Neg. 158 — That a priest shall not take a harlot in marriage
+    Vayikra 21:7
+    “They shall not take a woman that is a harlot, or profaned; neither shall they take a woman put
+    away from her husband; for he is holy unto his God.”
+
+Neg. 159 — That a priest shall not take a profaned woman in marriage
+    Vayikra 21:7
+    (JPS text as at Neg. 158)
+
+Neg. 160 — That a priest shall not take a divorced woman in marriage
+    Vayikra 21:7
+    (JPS text as at Neg. 158)
+
+Neg. 161 — That the High Priest shall not take a widow in marriage
+    Vayikra 21:14
+    “A widow, or one divorced, or a profaned woman, or a harlot, these shall he not take; but a
+    virgin of his own people shall he take to wife.”
+
+Neg. 162 — That the High Priest shall not cohabit with a widow, even without marriage, because he profanes her, and
+    Vayikra 21:15
+    “And he shall not profane his seed among his people; for I am the LORD who sanctify him.”
+
+Neg. 163 — That a priest shall not enter the Sanctuary with dishevelled hair
+    Vayikra 10:6
+    “And Moses said unto Aaron, and unto Eleazar and unto Ithamar, his sons: ‘Let not the hair of
+    your heads go loose, neither tend your clothes, that ye die not, and that He be not wroth with
+    all the congregation; but let your brethren, the whole house of Israel, bewail the burning which
+    the LORD hath kindled.”
+
+Neg. 164 — That a priest shall not enter the Sanctuary with torn garments
+    Vayikra 10:6
+    (JPS text as at Neg. 163)
+
+Neg. 165 — That the priest shall not leave the Courtyard of the Sanctuary, during service
+    Vayikra 10:7
+    “And ye shall not go out from the door of the tent of meeting, lest ye die; for the anointing
+    oil of the LORD is upon you.’ And they did according to the word of Moses.”
+
+Neg. 166 — That the ordinary priest shall not defile himself by contact with any dead, other than immediate relatives
+    Vayikra 21:1–3
+    “[1] And the LORD said unto Moses: Speak unto the priests the sons of Aaron, and say unto them:
+    There shall none defile himself for the dead among his people; […verses 2–3 continue; first
+    verse shown]”
+
+Neg. 167 — That a High Priest shall not defile himself with any dead, even if they are relatives
+    Vayikra 21:11
+    “neither shall he go in to any dead body, nor defile himself for his father, or for his mother;”
+
+Neg. 168 — That a High Priest shall not go (under the same roof) with a dead body
+    Vayikra 21:11
+    (JPS text as at Neg. 167)
+
+Neg. 169 — That none of the tribe of Levi shall take any portion of territory in the land (of Israel)
+    Devarim 18:1
+    “The priests the Levites, even all the tribe of Levi, shall have no portion nor inheritance with
+    Israel; they shall eat the offerings of the LORD made by fire, and His inheritance.”
+
+Neg. 170 — That none of the tribe of Levi shall take any share of the spoil (at the conquest of the Promised Land)
+    Devarim 18:1
+    (JPS text as at Neg. 169)
+
+Neg. 171 — Not to make a bald spot for the dead
+    Devarim 14:1
+    “Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness
+    between your eyes for the dead.”
+
+Neg. 172 — Not to eat the flesh of unclean beasts
+    Vayikra 11:4
+    “Nevertheless these shall ye not eat of them that only chew the cud, or of them that only part
+    the hoof: the camel, because he cheweth the cud but parteth not the hoof, he is unclean unto
+    you.”
+
+Neg. 173 — Not to eat unclean fish
+    Vayikra 11:11
+    “and they shall be a detestable thing unto you; ye shall not eat of their flesh, and their
+    carcasses ye shall have in detestation.”
+
+Neg. 174 — Not to eat unclean fowl
+    Vayikra 11:13
+    “And these ye shall have in detestation among the fowls; they shall not be eaten, they are a
+    detestable thing: the great vulture, and the bearded vulture, and the ospray;”
+
+Neg. 175 — Not to eat of winged insects
+    Devarim 14:19
+    “And all winged swarming things are unclean unto you; they shall not be eaten.”
+
+Neg. 176 — Not to eat of things that creep upon the earth
+    Vayikra 11:41–42
+    “[41] And every swarming thing that swarmeth upon the earth is a detestable thing; it shall not
+    be eaten. [42] Whatsoever goeth upon the belly, and whatsoever goeth upon all fours, or
+    whatsoever hath many feet, even all swarming things that swarm upon the earth, them ye shall not
+    eat; for they are a detestable thing.”
+
+Neg. 177 — Not to eat any vermin of the earth
+    Vayikra 11:44
+    “For I am the LORD your God; sanctify yourselves therefore, and be ye holy; for I am holy;
+    neither shall ye defile yourselves with any manner of swarming thing that moveth upon the
+    earth.”
+
+Neg. 178 — Not to eat a worm found in fruit, after it has emerged
+    Vayikra 11:41
+    “And every swarming thing that swarmeth upon the earth is a detestable thing; it shall not be
+    eaten.”
+
+Neg. 179 — Not to eat things that swarm in the water
+    Vayikra 11:43
+    “Ye shall not make yourselves detestable with any swarming thing that swarmeth, neither shall ye
+    make yourselves unclean with them, that ye should be defiled thereby.”
+
+Neg. 180 — Not to eat the flesh of a beast that died of itself
+    Devarim 14:21
+    “Ye shall not eat of any thing that dieth of itself; thou mayest give it unto the stranger that
+    is within thy gates, that he may eat it; or thou mayest sell it unto a foreigner; for thou art a
+    holy people unto the LORD thy God. Thou shalt not seethe a kid in its mother’s milk.”
+
+Neg. 181 — Not to eat the flesh of a beast that is terefah (lit. torn)
+    Shemot 22:30
+    “And ye shall be holy men unto Me; therefore ye shall not eat any flesh that is torn of beasts
+    in the field; ye shall cast it to the dogs.”
+
+Neg. 182 — Not to eat a limb removed from a living beast
+    Devarim 12:23
+    “Only be stedfast in not eating the blood; for the blood is the life; and thou shalt not eat the
+    life with the flesh.”
+
+Neg. 183 — Not to eat the sinew of the thigh-vein which shrank
+    Bereshit 32:33
+    “Therefore the children of Israel eat not the sinew of the thigh-vein which is upon the hollow
+    of the thigh, unto this day; because he touched the hollow of Jacob’s thigh, even in the sinew
+    of the thigh-vein.”
+
+Neg. 184 — Not to eat blood
+    Vayikra 7:26
+    “And ye shall eat no manner of blood, whether it be of fowl or of beast, in any of your
+    dwellings.”
+
+Neg. 185 — Not to eat tallow-fat
+    Vayikra 7:23
+    “Speak unto the children of Israel, saying: Ye shall eat no fat, of ox, or sheep, or goat.”
+
+Neg. 186 — Not to boil flesh-meat with milk
+    Shemot 23:19
+    “The choicest first-fruits of thy land thou shalt bring into the house of the LORD thy God. Thou
+    shalt not seethe a kid in its mother’s milk.”
+
+Neg. 187 — Not to eat flesh with milk
+    Shemot 34:26
+    “The choicest first-fruits of thy land thou shalt bring unto the house of the LORD thy God. Thou
+    shalt not seethe a kid in its mother’s milk.’”
+    Also cited: Shemot 23:19 (Hyamson)
+
+Neg. 188 — Not to eat the flesh of an ox that was condemned to be stoned
+    Shemot 21:28
+    “And if an ox gore a man or a woman, that they die, the ox shall be surely stoned, and its flesh
+    shall not be eaten; but the owner of the ox shall be quit.”
+
+Neg. 189 — Not to eat bread made of new grain before (the Omer of barley has been offered up on the second day of) Passover
+    Vayikra 23:14
+    “And ye shall eat neither bread, nor parched corn, nor fresh ears, until this selfsame day,
+    until ye have brought the offering of your God; it is a statute for ever throughout your
+    generations in all your dwellings.”
+
+Neg. 190 — Not to eat roasted grain of the new produce (before that time)
+    Vayikra 23:14
+    (JPS text as at Neg. 189)
+
+Neg. 191 — Not to eat fresh ears of the new grain (before that time)
+    Vayikra 23:14
+    (JPS text as at Neg. 189)
+
+Neg. 192 — Not to eat the fruit of a tree for three years from the time it was planted
+    Vayikra 19:23
+    “And when ye shall come into the land, and shall have planted all manner of trees for food, then
+    ye shall count the fruit thereof as forbidden; three years shall it be as forbidden unto you; it
+    shall not be eaten.”
+
+Neg. 193 — Not to eat the produce of diverse seeds sown in a vineyard
+    Devarim 22:9
+    “Thou shalt not sow thy vineyard with two kinds of seed; lest the fulness of the seed which thou
+    hast sown be forfeited together with the increase of the vineyard.”
+
+Neg. 194 — Not to drink wine of idolaters
+    Devarim 32:38
+    “Who did eat the fat of their sacrifices, And drank the wine of their drink- offering? Let him
+    rise up and help you, Let him be your protection.”
+
+Neg. 195 — Not to eat or drink like a glutton or drunkard
+    Devarim 21:20
+    “and they shall say unto the elders of his city: ‘This our son is stubborn and rebellious, he
+    doth not hearken to our voice; he is a glutton, and a drunkard.’”
+
+Neg. 196 — Not to eat on the Day of the Fast (Day of Atonement)
+    Vayikra 23:29
+    “For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off
+    from his people.”
+
+Neg. 197 — Not to eat leavened bread on Passover
+    Shemot 13:3
+    “And Moses said unto the people: ‘Remember this day, in which ye came out from Egypt, out of the
+    house of bondage; for by strength of hand the LORD brought you out from this place; there shall
+    no leavened bread be eaten.”
+
+Neg. 198 — Not to eat on Passover any food containing leaven
+    Shemot 12:20
+    “Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.’”
+
+Neg. 199 — Not to eat leavened bread after mid-day on the fourteenth (of Nissan)
+    Devarim 16:3
+    “Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith,
+    even the bread of affliction; for in haste didst thou come forth out of the land of Egypt; that
+    thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy
+    life.”
+
+Neg. 200 — That leavened bread shall not be seen (in an Israelite’s home during Passover)
+    Shemot 13:7
+    “Unleavened bread shall be eaten throughout the seven days; and there shall no leavened bread be
+    seen with thee, neither shall there be leaven seen with thee, in all thy borders.”
+
+Neg. 201 — That no leaven be in the Israelite’s possession (during Passover)
+    Shemot 12:19
+    “Seven days shall there be no leaven found in your houses; for whosoever eateth that which is
+    leavened, that soul shall be cut off from the congregation of Israel, whether he be a sojourner,
+    or one that is born in the land.”
+
+Neg. 202 — That a Nazarite shall not drink wine, or anything mixed with wine which tastes like wine
+    Bamidbar 6:3
+    “he shall abstain from wine and strong drink: he shall drink no vinegar of wine, or vinegar of
+    strong drink, neither shall he drink any liquor of grapes, nor eat fresh grapes or dried.”
+
+Neg. 203 — That he shall not eat fresh grapes
+    Bamidbar 6:3
+    (JPS text as at Neg. 202)
+
+Neg. 204 — That he shall not eat dried grapes (raisins)
+    Bamidbar 6:3
+    (JPS text as at Neg. 202)
+
+Neg. 205 — That he shall not eat the kernels of the grapes
+    Bamidbar 6:4
+    “All the days of his Naziriteship shall he eat nothing that is made of the grape-vine, from the
+    pressed grapes even to the grapestone.”
+
+Neg. 206 — That he shall not eat of the skins of the grapes
+    Bamidbar 6:4
+    (JPS text as at Neg. 205)
+
+Neg. 207 — That a Nazarite shall not defile himself for any dead person
+    Bamidbar 6:7
+    “He shall not make himself unclean for his father, or for his mother, for his brother, or for
+    his sister, when they die; because his consecration unto God is upon his head.”
+
+Neg. 208 — That he shall not enter any covered structure where there is a dead body
+    Bamidbar 6:6
+    “All the days that he consecrateth himself unto the LORD he shall not come near to a dead body.”
+
+Neg. 209 — That the Nazarite shall not cut his hair
+    Bamidbar 6:5
+    “All the days of his vow of Naziriteship there shall no razor come upon his head; until the days
+    be fulfilled, in which he consecrateth himself unto the LORD, he shall be holy, he shall let the
+    locks of the hair of his head grow long.”
+
+Neg. 210 — Not to reap the entire field
+    Vayikra 19:9
+    “And when ye reap the harvest of your land, thou shalt not wholly reap the corner of thy field,
+    neither shalt thou gather the gleaning of thy harvest.”
+    Also cited: Vayikra 23:22 (Hyamson)
+
+Neg. 211 — Not to gather the ears that have fallen to the ground while reaping
+    Vayikra 19:9
+    (JPS text as at Neg. 210)
+
+Neg. 212 — Not to gather the imperfect clusters of the vineyard
+    Vayikra 19:10
+    “And thou shalt not glean thy vineyard, neither shalt thou gather the fallen fruit of thy
+    vineyard; thou shalt leave them for the poor and for the stranger: I am the LORD your God.”
+
+Neg. 213 — Not to gather the clusters of grapes that have fallen to the ground
+    Vayikra 19:10
+    (JPS text as at Neg. 212)
+
+Neg. 214 — Not to return to take a forgotten sheaf
+    Devarim 24:19
+    “When thou reapest thy harvest in thy field, and hast forgot a sheaf in the field, thou shalt
+    not go back to fetch it; it shall be for the stranger, for the fatherless, and for the widow;
+    that the LORD thy God may bless thee in all the work of thy hands.”
+    Also cited: Devarim 24:20 (Hyamson)
+
+Neg. 215 — Not to sow different kinds of seed together in one field
+    Vayikra 19:19
+    “Ye shall keep My statutes. Thou shalt not let thy cattle gender with a diverse kind; thou shalt
+    not sow thy field with two kinds of seed; neither shall there come upon thee a garment of two
+    kinds of stuff mingled together.”
+
+Neg. 216 — Not to sow grain or herbs in a vineyard
+    Devarim 22:9
+    “Thou shalt not sow thy vineyard with two kinds of seed; lest the fulness of the seed which thou
+    hast sown be forfeited together with the increase of the vineyard.”
+
+Neg. 217 — Not to cross-breed cattle of different species
+    Vayikra 19:19
+    “Ye shall keep My statutes. Thou shalt not let thy cattle gender with a diverse kind; thou shalt
+    not sow thy field with two kinds of seed; neither shall there come upon thee a garment of two
+    kinds of stuff mingled together.”
+
+Neg. 218 — Not to work with beasts of different species, yoked together
+    Devarim 22:10
+    “Thou shalt not plow with an ox and an ass together.”
+
+Neg. 219 — Not to muzzle a beast, while it is working in produce which it can eat and enjoy
+    Devarim 25:4
+    “Thou shalt not muzzle the ox when he treadeth out the corn.”
+
+Neg. 220 — Not to till the ground in the Sabbatical year
+    Vayikra 25:4
+    “But in the seventh year shall be a sabbath of solemn rest for the land, a sabbath unto the
+    LORD; thou shalt neither sow thy field, nor prune thy vineyard.”
+
+Neg. 221 — Not to do any work on the trees in the Sabbatical year
+    Vayikra 25:4
+    (JPS text as at Neg. 220)
+
+Neg. 222 — Not to reap the aftermath that grows in the Sabbatical year, in the same way as it is reaped in other years
+    Vayikra 25:5
+    “That which groweth of itself of thy harvest thou shalt not reap, and the grapes of thy
+    undressed vine thou shalt not gather; it shall be a year of solemn rest for the land.”
+
+Neg. 223 — Not to gather the fruit of the tree in the Sabbatical year in the same way as it is gathered in other years
+    Vayikra 25:5
+    (JPS text as at Neg. 222)
+
+Neg. 224 — Not to cultivate the soil nor do any work on the trees, in the Jubilee Year
+    Vayikra 25:11
+    “A jubilee shall that fiftieth year be unto you; ye shall not sow, neither reap that which
+    groweth of itself in it, nor gather the grapes in it of the undressed vines.”
+
+Neg. 225 — Not to reap the aftermath of the field that grew of itself in the Jubilee Year, in the same way as in other years
+    Vayikra 25:11
+    (JPS text as at Neg. 224)
+
+Neg. 226 — Not to gather the fruit of the tree in the Jubilee Year, in the same way as in other years
+    Vayikra 25:11
+    (JPS text as at Neg. 224)
+
+Neg. 227 — Not to sell a field in the land of Israel in perpetuity
+    Vayikra 25:23
+    “And the land shall not be sold in perpetuity; for the land is Mine; for ye are strangers and
+    settlers with Me.”
+
+Neg. 228 — Not to change the character of the open land (about the cities of) the Levites or of their fields
+    Vayikra 25:34
+    “But the fields of the open land about their cities may not be sold; for that is their perpetual
+    possession.”
+
+Neg. 229 — Not to forsake the Levites
+    Devarim 12:19
+    “Take heed to thyself that thou forsake not the Levite as long as thou livest upon thy land.”
+
+Neg. 230 — Not to demand return of a loan after the Sabbatical year has elapsed
+    Devarim 15:2
+    “And this is the manner of the release: every creditor shall release that which he hath lent
+    unto his neighbour; he shall not exact it of his neighbour and his brother; because the LORD’S
+    release hath been proclaimed.”
+
+Neg. 231 — Not to refrain from making a loan to a poor man, because of the Sabbatical year
+    Devarim 15:9
+    “Beware that there be not a base thought in thy heart, saying: ‘The seventh year, the year of
+    release, is at hand’; and thine eye be evil against thy needy brother, and thou give him nought;
+    and he cry unto the LORD against thee, and it be sin in thee.”
+
+Neg. 232 — Not to refrain from maintaining a poor man and giving him what he needs
+    Devarim 15:7
+    “If there be among you a needy man, one of thy brethren, within any of thy gates, in thy land
+    which the LORD thy God giveth thee, thou shalt not harden thy heart, nor shut thy hand from thy
+    needy brother;”
+
+Neg. 233 — Not to send away a Hebrew bondman servant empty handed, when he is freed from service
+    Devarim 15:13
+    “And when thou lettest him go free from thee, thou shalt not let him go empty;”
+
+Neg. 234 — Not to demand from a poor man repayment of his debt, when the creditor knows that he is poor, nor press him
+    Shemot 22:24
+    “If thou lend money to any of My people, even to the poor with thee, thou shalt not be to him as
+    a creditor; neither shall ye lay upon him interest.”
+
+Neg. 235 — Not to make a loan to an Israelite on interest
+    Vayikra 25:37
+    “Thou shalt not give him thy money upon interest, nor give him thy victuals for increase.”
+
+Neg. 236 — Not to take a loan on interest
+    Devarim 23:20
+    “Thou shalt not lend upon interest to thy brother: interest of money, interest of victuals,
+    interest of any thing that is lent upon interest.”
+
+Neg. 237 — Not to take part in any usurious transaction between borrower and lender, neither as a surety, nor as a witness, nor as a writer of the bond for them
+    Shemot 22:24
+    “If thou lend money to any of My people, even to the poor with thee, thou shalt not be to him as
+    a creditor; neither shall ye lay upon him interest.”
+
+Neg. 238 — Not to delay payment of a hired man’s wages
+    Vayikra 19:13
+    “Thou shalt not oppress thy neighbour, nor rob him; the wages of a hired servant shall not abide
+    with thee all night until the morning.”
+
+Neg. 239 — Not to exact a pledge from a debtor by force
+    Devarim 24:10
+    “When thou dost lend thy neighbour any manner of loan, thou shalt not go into his house to fetch
+    his pledge.”
+
+Neg. 240 — Not to keep the pledge from its owner, who is a poor man, at the time when he needs it
+    Devarim 24:12
+    “And if he be a poor man, thou shalt not sleep with his pledge;”
+
+Neg. 241 — Not to take a pledge from a widow
+    Devarim 24:17
+    “Thou shalt not pervert the justice due to the stranger, or to the fatherless; nor take the
+    widow’s raiment to pledge.”
+
+Neg. 242 — Not to take in pledge utensils used in preparing food
+    Devarim 24:6
+    “No man shall take the mill or the upper millstone to pledge; for he taketh a man’s life to
+    pledge.”
+
+Neg. 243 — Not to kidnap any person in Israel
+    Shemot 20:15
+    “Thou shalt not steal.”
+
+Neg. 244 — Not to steal personal property
+    Vayikra 19:11
+    “Ye shall not steal; neither shall ye deal falsely, nor lie one to another.”
+
+Neg. 245 — Not to rob by violence
+    Vayikra 19:13
+    “Thou shalt not oppress thy neighbour, nor rob him; the wages of a hired servant shall not abide
+    with thee all night until the morning.”
+
+Neg. 246 — Not to remove landmarks
+    Devarim 19:14
+    “Thou shalt not remove thy neighbour’s landmark, which they of old time have set, in thine
+    inheritance which thou shalt inherit, in the land that the LORD thy God giveth thee to possess
+    it.”
+
+Neg. 247 — Not to defraud
+    Vayikra 19:13
+    “Thou shalt not oppress thy neighbour, nor rob him; the wages of a hired servant shall not abide
+    with thee all night until the morning.”
+
+Neg. 248 — Not to deny falsely another’s property rights
+    Vayikra 19:11
+    “Ye shall not steal; neither shall ye deal falsely, nor lie one to another.”
+
+Neg. 249 — Not to swear falsely in denial of another’s property rights
+    Vayikra 19:11
+    (JPS text as at Neg. 248)
+
+Neg. 250 — Not to do wrong in buying or selling
+    Vayikra 25:14
+    “And if thou sell aught unto thy neighbour, or buy of thy neighbour’s hand, ye shall not wrong
+    one another.”
+
+Neg. 251 — Not to wrong any one in speech
+    Vayikra 25:17
+    “And ye shall not wrong one another; but thou shalt fear thy God; for I am the LORD your God.”
+
+Neg. 252 — Not to wrong the stranger in speech
+    Shemot 22:20
+    “And a stranger shalt thou not wrong, neither shalt thou oppress him; for ye were strangers in
+    the land of Egypt.”
+
+Neg. 253 — Not to wrong the stranger in buying or selling
+    Shemot 22:20
+    (JPS text as at Neg. 252)
+
+Neg. 254 — Not to surrender a slave, who has fled to the land of Israel, to his owner who lives outside Palestine
+    Devarim 23:16
+    “Thou shalt not deliver unto his master a bondman that is escaped from his master unto thee;”
+
+Neg. 255 — Not to wrong such a slave
+    Devarim 23:17
+    “he shall dwell with thee, in the midst of thee, in the place which he shall choose within one
+    of thy gates, where it liketh him best; thou shalt not wrong him.”
+
+Neg. 256 — Not to afflict an orphan or a widow
+    Shemot 22:21
+    “Ye shall not afflict any widow, or fatherless child.”
+
+Neg. 257 — Not to compel the Hebrew servant to do the work of a slave
+    Vayikra 25:39
+    “And if thy brother be waxen poor with thee, and sell himself unto thee, thou shalt not make him
+    to serve as a bondservant.”
+
+Neg. 258 — Not to sell him as a slave
+    Vayikra 25:42
+    “For they are My servants, whom I brought forth out of the land of Egypt; they shall not be sold
+    as bondmen.”
+
+Neg. 259 — Not to treat a Hebrew servant rigorously
+    Vayikra 25:43
+    “Thou shalt not rule over him with rigour; but shalt fear thy God.”
+
+Neg. 260 — Not to permit a Gentile to treat harshly a Hebrew bondman sold to him
+    Vayikra 25:53
+    “As a servant hired year by year shall he be with him; he shall not rule with rigour over him in
+    thy sight.”
+
+Neg. 261 — Not to sell a Hebrew maid-servant to another person
+    Shemot 21:8
+    “If she please not her master, who hath espoused her to himself, then shall he let her be
+    redeemed; to sell her unto a foreign people he shall have no power, seeing he hath dealt
+    deceitfully with her.”
+
+Neg. 262 — Not to withhold from an espoused Hebrew bondwoman, food, clothing or conjugal rights
+    Shemot 21:10
+    “If he take him another wife, her food, her raiment, and her conjugal rights, shall he not
+    diminish.”
+
+Neg. 263 — Not to sell a beautiful woman, (taken captive in war)
+    Devarim 21:14
+    “And it shall be, if thou have no delight in her, then thou shalt let her go whither she will;
+    but thou shalt not sell her at all for money, thou shalt not deal with her as a slave, because
+    thou hast humbled her.”
+
+Neg. 264 — Not to degrade a beautiful woman (taken captive in war) to the condition of a bondwoman
+    Devarim 21:14
+    (JPS text as at Neg. 263)
+
+Neg. 265 — Not to covet what belongs to another
+    Shemot 20:17
+    “Thou shalt not covet thy neighbour’s house; thou shalt not covet thy neighbour’s wife, nor his
+    man-servant, nor his maid-servant, nor his ox, nor his ass, nor any thing that is thy
+    neighbour’s.”
+
+Neg. 266 — Not to lust
+    Devarim 5:21
+    “Neither shalt thou covet thy neighbour’s wife; neither shalt thou desire thy neighbour’s house,
+    his field, or his man-servant, or his maid-servant, his ox, or his ass, or any thing that is thy
+    neighbour’s.”
+
+Neg. 267 — That a hired labourer shall not eat produce attached to the soil, at which he is working, at a time when it is not being harvested
+    Devarim 23:26
+    “When thou comest into thy neighbour’s standing corn, then thou mayest pluck ears with thy hand;
+    but thou shalt not move a sickle unto thy neighbour’s standing corn.”
+
+Neg. 268 — That the hired labourer (at harvest time), shall not take more than he can eat
+    Devarim 23:25
+    “When thou comest into thy neighbour’s vineyard, then thou mayest eat grapes until thou have
+    enough at thine own pleasure; but thou shalt not put any in thy vessel.”
+
+Neg. 269 — Not to pretend not to have seen lost property, so as to save oneself the trouble of recovering it and restoring it to the owner
+    Devarim 22:3
+    “And so shalt thou do with his ass; and so shalt thou do with his garment; and so shalt thou do
+    with every lost thing of thy brother’s, which he hath lost, and thou hast found; thou mayest not
+    hide thyself.”
+
+Neg. 270 — Not to leave a beast, that has fallen down beneath its burden, unaided
+    Devarim 22:4
+    “Thou shalt not see thy brother’s ass or his ox fallen down by the way, and hide thyself from
+    them; thou shalt surely help him to lift them up again.”
+    Also cited: Shemot 23:5 (Hyamson)
+
+Neg. 271 — Not to commit fraud in measuring
+    Vayikra 19:35
+    “Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.”
+
+Neg. 272 — Not to have in our possession diverse measures and weights
+    Devarim 25:13–14
+    “[13] Thou shalt not have in thy bag diverse weights, a great and a small. [14] Thou shalt not
+    have in thy house diverse measures, a great and a small.”
+
+Neg. 273 — Not to render iniquitous decisions
+    Vayikra 19:15
+    “Ye shall do no unrighteousness in judgment; thou shalt not respect the person of the poor, nor
+    favour the person of the mighty; but in righteousness shalt thou judge thy neighbour.”
+    Also cited: Vayikra 19:35 (Young, Glazer)
+    Note: Hyamson cites Lev. 19:15; Young and Glazer cite Lev. 19:35 (same words).
+
+Neg. 274 — Not to take a bribe
+    Shemot 23:8
+    “And thou shalt take no gift; for a gift blindeth them that have sight, and perverteth the words
+    of the righteous.”
+
+Neg. 275 — Not to show special courtesy to a great man, when trying a case
+    Vayikra 19:15
+    “Ye shall do no unrighteousness in judgment; thou shalt not respect the person of the poor, nor
+    favour the person of the mighty; but in righteousness shalt thou judge thy neighbour.”
+
+Neg. 276 — Not to be afraid of a bad man, when trying a case
+    Devarim 1:17
+    “Ye shall not respect persons in judgment; ye shall hear the small and the great alike; ye shall
+    not be afraid of the face of any man; for the judgment is God’s; and the cause that is too hard
+    for you ye shall bring unto me, and I will hear it.’”
+
+Neg. 277 — Not to be moved in trying a case, by the poverty of one of the parties
+    Vayikra 19:15
+    “Ye shall do no unrighteousness in judgment; thou shalt not respect the person of the poor, nor
+    favour the person of the mighty; but in righteousness shalt thou judge thy neighbour.”
+    Also cited: Shemot 23:3 (Young, Glazer)
+    Note: Hyamson cites Lev. 19:15; Young and Glazer cite Ex. 23:3.
+
+Neg. 278 — Not to pervert the judgment of a sinner
+    Shemot 23:6
+    “Thou shalt not wrest the judgment of thy poor in his cause.”
+
+Neg. 279 — Not to spare the offender, in imposing the prescribed penalties on one who has caused damage
+    Devarim 19:13
+    “Thine eye shall not pity him, but thou shalt put away the blood of the innocent from Israel,
+    that it may go well with thee.”
+
+Neg. 280 — Not to pervert the judgment of strangers or orphans
+    Devarim 24:17
+    “Thou shalt not pervert the justice due to the stranger, or to the fatherless; nor take the
+    widow’s raiment to pledge.”
+
+Neg. 281 — Not to hear one of the parties to a suit in the absence of the other party
+    Shemot 23:1
+    “Thou shalt not utter a false report; put not thy hand with the wicked to be an unrighteous
+    witness.”
+
+Neg. 282 — Not to decide, in capital cases, according to the view of the majority, when those who are for condemnation exceed by one only, those who are for acquittal
+    Shemot 23:2
+    “Thou shalt not follow a multitude to do evil; neither shalt thou bear witness in a cause to
+    turn aside after a multitude to pervert justice;”
+
+Neg. 283 — That, in capital cases, one who had argued for acquittal, shall not later on argue for condemnation
+    Shemot 23:2
+    (JPS text as at Neg. 282)
+
+Neg. 284 — Not to appoint as a judge, a person who is not well versed in the laws of the Torah, even if he is expert in other branches of knowledge
+    Devarim 1:17
+    “Ye shall not respect persons in judgment; ye shall hear the small and the great alike; ye shall
+    not be afraid of the face of any man; for the judgment is God’s; and the cause that is too hard
+    for you ye shall bring unto me, and I will hear it.’”
+
+Neg. 285 — Not to testify falsely
+    Shemot 20:16
+    “Thou shalt not bear false witness against thy neighbour.”
+
+Neg. 286 — That a transgressor shall not testify
+    Shemot 23:1
+    “Thou shalt not utter a false report; put not thy hand with the wicked to be an unrighteous
+    witness.”
+
+Neg. 287 — That a relative shall not testify
+    Devarim 24:16
+    “The fathers shall not be put to death for the children, neither shall the children be put to
+    death for the fathers; every man shall be put to death for his own sin.”
+
+Neg. 288 — Not to decide a case on the evidence of a single witness
+    Devarim 19:15
+    “One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that
+    he sinneth; at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be
+    established.”
+
+Neg. 289 — Not to slay an innocent person
+    Shemot 20:13
+    “Thou shalt not murder.”
+
+Neg. 290 — Not to render a decision on one’s personal opinion, but only on the evidence of two witnesses, who saw what actually occurred
+    Shemot 23:7
+    “Keep thee far from a false matter; and the innocent and righteous slay thou not; for I will not
+    justify the wicked.”
+
+Neg. 291 — That a witness, who has testified in a capital case, shall not lay down the law in that particular case
+    Bamidbar 35:30
+    “Whoso killeth any person, the murderer shall be slain at the mouth of witnesses; but one
+    witness shall not testify against any person that he die.”
+
+Neg. 292 — Not to execute one guilty of a capital offence, before he has stood his trial
+    Bamidbar 35:12
+    “And the cities shall be unto you for refuge from the avenger, that the manslayer die not, until
+    he stand before the congregation for judgment.”
+
+Neg. 293 — Not to spare a pursuer, but he is to be slain before he reaches the pursued and slays the latter, or uncovers his nakedness
+    Devarim 25:12
+    “then thou shalt cut off her hand, thine eye shall have no pity.”
+
+Neg. 294 — Not to punish any one who has committed an offence under duress
+    Devarim 22:26
+    “But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death; for
+    as when a man riseth against his neighbour, and slayeth him, even so is this matter.”
+
+Neg. 295 — Not to accept ransom from a murderer
+    Bamidbar 35:31
+    “Moreover ye shall take no ransom for the life of a murderer, that is guilty of death; but he
+    shall surely be put to death.”
+
+Neg. 296 — Not to accept ransom from an accidental homicide, so as to relieve him from exile
+    Bamidbar 35:32
+    “And ye shall take no ransom for him that is fled to his city of refuge, that he should come
+    again to dwell in the land, until the death of the priest.”
+
+Neg. 297 — Not to stand by idly when a human life is in danger
+    Vayikra 19:16
+    “Thou shalt not go up and down as a talebearer among thy people; neither shalt thou stand idly
+    by the blood of thy neighbour: I am the LORD.”
+
+Neg. 298 — Not to leave something that might cause hurt
+    Devarim 22:8
+    “When thou buildest a new house, then thou shalt make a parapet for thy roof, that thou bring
+    not blood upon thy house, if any man fall from thence.”
+
+Neg. 299 — Not to give occasion to the simple-minded to stumble on the road
+    Vayikra 19:14
+    “Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but thou shalt fear
+    thy God: I am the LORD.”
+
+Neg. 300 — Not to exceed the statutory number of stripes laid on one who has incurred that punishment
+    Devarim 25:3
+    “Forty stripes he may give him, he shall not exceed; lest, if he should exceed, and beat him
+    above these with many stripes, then thy brother should be dishonoured before thine eyes.”
+
+Neg. 301 — Not to carry tales
+    Vayikra 19:16
+    “Thou shalt not go up and down as a talebearer among thy people; neither shalt thou stand idly
+    by the blood of thy neighbour: I am the LORD.”
+
+Neg. 302 — Not to cherish hatred in one’s heart
+    Vayikra 19:17
+    “Thou shalt not hate thy brother in thy heart; thou shalt surely rebuke thy neighbour, and not
+    bear sin because of him.”
+
+Neg. 303 — Not to put any person in Israel to shame
+    Vayikra 19:17
+    (JPS text as at Neg. 302)
+
+Neg. 304 — Not to take revenge
+    Vayikra 19:18
+    “Thou shalt not take vengeance, nor bear any grudge against the children of thy people, but thou
+    shalt love thy neighbour as thyself: I am the LORD.”
+
+Neg. 305 — Not to bear a grudge
+    Vayikra 19:18
+    (JPS text as at Neg. 304)
+
+Neg. 306 — Not to take the mother-bird with the young
+    Devarim 22:6
+    “If a bird’s nest chance to be before thee in the way, in any tree or on the ground, with young
+    ones or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam
+    with the young;”
+
+Neg. 307 — Not to shave off the hair of the scall
+    Vayikra 13:33
+    “then he shall be shaven, but the scall shall he not shave; and the priest shall shut up him
+    that hath the scall seven days more.”
+
+Neg. 308 — Not to pluck out the marks of leprosy
+    Devarim 24:8
+    “Take heed in the plague of leprosy, that thou observe diligently, and do according to all that
+    the priests the Levites shall teach you, as I commanded them, so ye shall observe to do.”
+
+Neg. 309 — Not to plough nor sow the rough valley (in which a heifer’s neck was broken in expiation of a murder on the road, the perpetrator of which remained undiscovered)
+    Devarim 21:4
+    “And the elders of that city shall bring down the heifer unto a rough valley, which may neither
+    be plowed nor sown, and shall break the heifer’s neck there in the valley.”
+
+Neg. 310 — Not to suffer any one practising witchcraft to live
+    Shemot 22:17
+    “Thou shalt not suffer a sorceress to live.”
+    Note: Hyamson and Glazer (1927) both number the prohibition of letting a sorcerer live as
+    Negative 310 and the bridegroom’s exemption as Negative 311. Printed lists of the commandments
+    are not numbered identically at every point (compare the notes at Negative 331–332 and 340–341),
+    so this list follows Hyamson.
+
+Neg. 311 — That a bridegroom shall be exempt for a whole year from taking part in any public labour, such as military service, guarding the wall and similar duties
+    Devarim 24:5
+    “When a man taketh a new wife, he shall not go out in the host, neither shall he be charged with
+    any business; he shall be free for his house one year, and shall cheer his wife whom he hath
+    taken.”
+    Note: Hyamson and Glazer (1927) both number the prohibition of letting a sorcerer live as
+    Negative 310 and the bridegroom’s exemption as Negative 311. Printed lists of the commandments
+    are not numbered identically at every point (compare the notes at Negative 331–332 and 340–341),
+    so this list follows Hyamson.
+
+Neg. 312 — Not to rebel against the orders of the Court
+    Devarim 17:11
+    “According to the law which they shall teach thee, and according to the judgment which they
+    shall tell thee, thou shalt do; thou shalt not turn aside from the sentence which they shall
+    declare unto thee, to the right hand, nor to the left.”
+
+Neg. 313 — Not to add to the commandments of the Torah, whether in the Written Law or in its interpretation received by tradition
+    Devarim 13:1
+    “All this word which I command you, that shall ye observe to do; thou shalt not add thereto, nor
+    diminish from it.”
+    Note: Hyamson cites Deut. 12:32, which is Deut. 13:1 in the Hebrew (JPS) verse numbering.
+
+Neg. 314 — Not to take away from the commandments of the Torah
+    Devarim 13:1
+    (JPS text as at Neg. 313)
+    Note: Hyamson writes “ibid.”, meaning Deut. 12:32 as at Negative 313; that is Deut. 13:1 in the
+    Hebrew (JPS) verse numbering.
+
+Neg. 315 — Not to curse a judge
+    Shemot 22:27
+    “Thou shalt not revile God, nor curse a ruler of thy people.”
+
+Neg. 316 — Not to curse a ruler, that is, the King or the head of the College in the land of Israel
+    Shemot 22:27
+    (JPS text as at Neg. 315)
+
+Neg. 317 — Not to curse any other Israelite
+    Vayikra 19:14
+    “Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but thou shalt fear
+    thy God: I am the LORD.”
+
+Neg. 318 — Not to curse a father or mother
+    Shemot 21:17
+    “And he that curseth his father or his mother, shall surely be put to death.”
+
+Neg. 319 — Not to smite a father or a mother
+    Shemot 21:15
+    “And he that smiteth his father, or his mother, shall be surely put to death.”
+
+Neg. 320 — Not to do work on the Sabbath
+    Shemot 20:10
+    “but the seventh day is a sabbath unto the LORD thy God, in it thou shalt not do any manner of
+    work, thou, nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, nor thy
+    cattle, nor thy stranger that is within thy gates;”
+
+Neg. 321 — Not to travel on the Sabbath outside the limits of one’s place of residence
+    Shemot 16:29
+    “See that the LORD hath given you the sabbath; therefore He giveth you on the sixth day the
+    bread of two days; abide ye every man in his place, let no man go out of his place on the
+    seventh day.’”
+
+Neg. 322 — Not to inflict punishment on the Sabbath day
+    Shemot 35:3
+    “Ye shall kindle no fire throughout your habitations upon the sabbath day.’”
+
+Neg. 323 — Not to do work on the first day of Passover
+    Shemot 12:16
+    “And in the first day there shall be to you a holy convocation, and in the seventh day a holy
+    convocation; no manner of work shall be done in them, save that which every man must eat, that
+    only may be done by you.”
+
+Neg. 324 — Not to do work on the seventh day of Passover
+    Shemot 12:16
+    (JPS text as at Neg. 323)
+
+Neg. 325 — Not to do work on the Feast of Pentecost
+    Vayikra 23:21
+    “And ye shall make proclamation on the selfsame day; there shall be a holy convocation unto you;
+    ye shall do no manner of servile work; it is a statute for ever in all your dwellings throughout
+    your generations.”
+
+Neg. 326 — Not to do work on the first day of the seventh month
+    Vayikra 23:25
+    “Ye shall do no manner of servile work; and ye shall bring an offering made by fire unto the
+    LORD.”
+
+Neg. 327 — Not to do work on the Day of Atonement
+    Vayikra 23:31
+    “Ye shall do no manner of work; it is a statute for ever throughout your generations in all your
+    dwellings.”
+
+Neg. 328 — Not to do work on the first day of the Feast (of Tabernacles)
+    Vayikra 23:35
+    “On the first day shall be a holy convocation; ye shall do no manner of servile work.”
+
+Neg. 329 — Not to do work on the eighth day of the Feast (of Tabernacles)
+    Vayikra 23:36
+    “Seven days ye shall bring an offering made by fire unto the LORD; on the eighth day shall be a
+    holy convocation unto you; and ye shall bring an offering made by fire unto the LORD; it is a
+    day of solemn assembly; ye shall do no manner of servile work.”
+
+Neg. 330 — Not to commit incest with one’s mother
+    Vayikra 18:7
+    “The nakedness of thy father, and the nakedness of thy mother, shalt thou not uncover: she is
+    thy mother; thou shalt not uncover her nakedness.”
+
+Neg. 331 — Not to commit incest with one’s father’s wife
+    Vayikra 18:8
+    “The nakedness of thy father’s wife shalt thou not uncover: it is thy father’s nakedness.”
+    Note: Young and Glazer put the sister here (Lev. 18:9) and the father's wife at 332 (Lev. 18:8);
+    Hyamson's order is followed.
+
+Neg. 332 — Not to commit incest with one’s sister
+    Vayikra 18:9
+    “The nakedness of thy sister, the daughter of thy father, or the daughter of thy mother, whether
+    born at home, or born abroad, even their nakedness thou shalt not uncover.”
+    Note: Young and Glazer put the father's wife here (Lev. 18:8) and the sister at 331; Hyamson's
+    order is followed.
+
+Neg. 333 — Not to commit incest with one’s half sister
+    Vayikra 18:9
+    (JPS text as at Neg. 332)
+    Also cited: Vayikra 18:11 (Young)
+    Note: Hyamson cites Lev. 18:9; Young quotes Lev. 18:11 (the father's wife's daughter).
+
+Neg. 334 — Not to commit incest with one’s son’s daughter
+    Vayikra 18:10
+    “The nakedness of thy son’s daughter, or of thy daughter’s daughter, even their nakedness thou
+    shalt not uncover; for theirs is thine own nakedness.”
+
+Neg. 335 — Not to commit incest with one’s daughter’s daughter
+    Vayikra 18:10
+    (JPS text as at Neg. 334)
+
+Neg. 336 — Not to commit incest with one’s daughter
+    Vayikra 18:10
+    (JPS text as at Neg. 334)
+    Note: No verse names this directly; Hyamson says it is learnt by tradition from the daughter's
+    daughter (Lev. 18:10), and Young quotes that verse.
+
+Neg. 337 — Not to commit incest with one’s wife’s daughter
+    Vayikra 18:17
+    “Thou shalt not uncover the nakedness of a woman and her daughter; thou shalt not take her son’s
+    daughter, or her daughter’s daughter, to uncover her nakedness: they are near kinswomen; it is
+    lewdness.”
+
+Neg. 338 — Not to commit incest with the daughter of one’s wife’s son
+    Vayikra 18:17
+    (JPS text as at Neg. 337)
+
+Neg. 339 — Not to commit incest with the daughter of one’s wife’s daughter
+    Vayikra 18:17
+    (JPS text as at Neg. 337)
+
+Neg. 340 — Not to commit incest with one’s father’s sister
+    Vayikra 18:12
+    “Thou shalt not uncover the nakedness of thy father’s sister: she is thy father’s near
+    kinswoman.”
+    Note: Young and Glazer put the mother's sister here and the father's sister at 341; Hyamson's
+    order is followed.
+
+Neg. 341 — Not to commit incest with one’s mother’s sister
+    Vayikra 18:13
+    “Thou shalt not uncover the nakedness of thy mother’s sister; for she is thy mother’s near
+    kinswoman.”
+    Note: Young and Glazer put the father's sister here and the mother's sister at 340; Hyamson's
+    order is followed.
+
+Neg. 342 — Not to commit incest with one’s father’s brother’s wife
+    Vayikra 18:14
+    “Thou shalt not uncover the nakedness of thy fathers brother, thou shalt not approach to his
+    wife: she is thine aunt.”
+
+Neg. 343 — Not to commit incest with one’s son’s wife
+    Vayikra 18:15
+    “Thou shalt not uncover the nakedness of thy daughter-in-law: she is thy son’s wife; thou shalt
+    not uncover her nakedness.”
+
+Neg. 344 — Not to commit incest with one’s brother’s wife
+    Vayikra 18:16
+    “Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness.”
+
+Neg. 345 — Not to commit incest with one’s wife’s sister
+    Vayikra 18:18
+    “And thou shalt not take a woman to her sister, to be a rival to her, to uncover her nakedness,
+    beside the other in her lifetime.”
+
+Neg. 346 — Not to have intercourse with a woman, in her menstrual period
+    Vayikra 18:19
+    “And thou shalt not approach unto a woman to uncover her nakedness, as long as she is impure by
+    her uncleanness.”
+
+Neg. 347 — Not to have intercourse with another man’s wife
+    Vayikra 18:20
+    “And thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her.”
+
+Neg. 348 — Not to have intercourse with a beast
+    Vayikra 18:23
+    “And thou shalt not lie with any beast to defile thyself therewith; neither shall any woman
+    stand before a beast, to lie down thereto; it is perversion.”
+
+Neg. 349 — That a woman shall not have intercourse with a beast
+    Vayikra 18:23
+    (JPS text as at Neg. 348)
+
+Neg. 350 — Not to commit sodomy with a male
+    Vayikra 18:22
+    “Thou shalt not lie with mankind, as with womankind; it is abomination.”
+
+Neg. 351 — Not to commit sodomy with one’s father
+    Vayikra 18:7
+    “The nakedness of thy father, and the nakedness of thy mother, shalt thou not uncover: she is
+    thy mother; thou shalt not uncover her nakedness.”
+
+Neg. 352 — Not to commit sodomy with one’s father’s brother
+    Vayikra 18:14
+    “Thou shalt not uncover the nakedness of thy fathers brother, thou shalt not approach to his
+    wife: she is thine aunt.”
+
+Neg. 353 — Not to indulge in familiarities with relatives, such as kissing, embracing, winking, skipping, which may lead to incest
+    Vayikra 18:6
+    “None of you shall approach to any that is near of kin to him, to uncover their nakedness. I am
+    the LORD.”
+
+Neg. 354 — That a bastard shall not marry the daughter of an Israelite
+    Devarim 23:3
+    “A bastard shall not enter into the assembly of the LORD; even to the tenth generation shall
+    none of his enter into the assembly of the LORD.”
+
+Neg. 355 — That there shall be no harlot (in Israel); that is, that there shall be no intercourse with a woman, without previous marriage with a deed of marriage and formal declaration of marriage
+    Devarim 23:18
+    “There shall be no harlot of the daughters of Israel, neither shall there be a sodomite of the
+    sons of Israel.”
+
+Neg. 356 — That one who divorced his wife shall not re-marry her, if after the divorce she had been married to another man
+    Devarim 24:4
+    “her former husband, who sent her away, may not take her again to be his wife, after that she is
+    defiled; for that is abomination before the LORD; and thou shalt not cause the land to sin,
+    which the LORD thy God giveth thee for an inheritance.”
+
+Neg. 357 — That a widow whose husband died childless must not be married to anyone but her deceased husband’s brother
+    Devarim 25:5
+    “If brethren dwell together, and one of them die, and have no child, the wife of the dead shall
+    not be married abroad unto one not of his kin; her husband’s brother shall go in unto her, and
+    take her to him to wife, and perform the duty of a husband’s brother unto her.”
+
+Neg. 358 — That one who has raped a damsel and has then (in accordance with the law) married her, may not divorce her
+    Devarim 22:29
+    “then the man that lay with her shall give unto the damsel’s father fifty shekels of silver, and
+    she shall be his wife, because he hath humbled her; he may not put her away all his days.”
+
+Neg. 359 — That a man may not divorce his wife concerning whom he has published an evil report
+    Devarim 22:19
+    “And they shall fine him a hundred shekels of silver, and give them unto the father of the
+    damsel, because he hath brought up an evil name upon a virgin of Israel; and she shall be his
+    wife; he may not put her away all his days.”
+
+Neg. 360 — That a eunuch shall not marry a daughter of Israel
+    Devarim 23:2
+    “He that is crushed or maimed in his privy parts shall not enter into the assembly of the LORD.”
+
+Neg. 361 — Not to castrate the male of any species; neither a man, nor a domestic or wild beast, nor a fowl
+    Vayikra 22:24
+    “That which hath its stones bruised, or crushed, or torn, or cut, ye shall not offer unto the
+    LORD; neither shall ye do thus in your land.”
+
+Neg. 362 — Not to appoint as ruler over Israel, one who comes from non-Israelites
+    Devarim 17:15
+    “thou shalt in any wise set him king over thee, whom the LORD thy God shall choose; one from
+    among thy brethren shalt thou set king over thee; thou mayest not put a foreigner over thee, who
+    is not thy brother.”
+
+Neg. 363 — That the King shall not acquire an excessive number of horses
+    Devarim 17:16
+    “Only he shall not multiply horses to himself, nor cause the people to return to Egypt, to the
+    end that he should multiply horses; forasmuch as the LORD hath said unto you: ‘Ye shall
+    henceforth return no more that way.’”
+
+Neg. 364 — That the King shall not take an excessive number of wives
+    Devarim 17:17
+    “Neither shall he multiply wives to himself, that his heart turn not away; neither shall he
+    greatly multiply to himself silver and gold.”
+
+Neg. 365 — That he shall not accumulate an excessive quantity of gold and silver
+    Devarim 17:17
+    (JPS text as at Neg. 364)
+
